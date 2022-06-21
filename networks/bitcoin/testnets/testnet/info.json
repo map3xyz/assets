@@ -1,0 +1,34 @@
+{
+    "color": "#F89C2E",
+    "decimals": 8,
+    "description": [
+        {
+            "locale": "en",
+            "copy": "[Testnet] Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
+            "verified": true
+        }
+    ],
+    "id": "55b0c6c4-b817-4eeb-a2d2-da713d5a9674",
+    "identifiers": {},
+    "links": {
+        "explorer": "https://www.blockchain.com/explorer?view=btc-testnet",
+        "github": "https://github.com/bitcoin",
+        "reddit": "https://reddit.com/r/Bitcoin",
+        "research": "https://research.binance.com/en/projects/bitcoin",
+        "twitter": "https://twitter.com/Bitcoin",
+        "website": "https://bitcoin.org",
+        "whitepaper": "https://bitcoin.org/bitcoin.pdf"
+    },
+    "logo": {
+        "png": false,
+        "svg": false
+    },
+    "name": "Bitcoin Testnet",
+    "regex": {
+        "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$"
+    },
+    "status": "active",
+    "symbol": "BTC-testnet",
+    "type": "coin",
+    "verified": true
+}

@@ -1,0 +1,36 @@
+{
+    "color": "#F89C2E",
+    "decimals": 8,
+    "description": [
+        {
+            "locale": "en",
+            "value": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
+            "verified": true
+        }
+    ],
+    "id": "531924d7-9cd2-4c2b-a56f-6d2bf1c05566",
+    "identifiers": {
+        "bip44": 0
+    },
+    "links": {
+        "explorer": "https://blockchain.info",
+        "github": "https://github.com/bitcoin",
+        "reddit": "https://reddit.com/r/Bitcoin",
+        "research": "https://research.binance.com/en/projects/bitcoin",
+        "twitter": "https://twitter.com/Bitcoin",
+        "website": "https://bitcoin.org",
+        "whitepaper": "https://bitcoin.org/bitcoin.pdf"
+    },
+    "logo": {
+        "png": true,
+        "svg": true
+    },
+    "name": "Bitcoin",
+    "regex": {
+        "address": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$"
+    },
+    "status": "active",
+    "symbol": "BTC",
+    "type": "coin",
+    "verified": true
+}
