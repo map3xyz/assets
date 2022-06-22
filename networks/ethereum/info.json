@@ -32,6 +32,7 @@
     },
     "status": "active",
     "symbol": "ETH",
+    "tags": [],
     "type": "coin",
     "verified": true
   }

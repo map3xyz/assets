@@ -31,6 +31,7 @@
     },
     "status": "active",
     "symbol": "BTC",
+    "tags": [],
     "type": "coin",
     "verified": true
 }

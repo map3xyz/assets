@@ -32,6 +32,7 @@
     },
     "status": "active",
     "symbol": "MATIC",
+    "tags": [],
     "type": "coin",
     "verified": true
   }

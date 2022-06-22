@@ -29,6 +29,7 @@
     },
     "status": "active",
     "symbol": "BTC-testnet",
+    "tags": [],
     "type": "coin",
     "verified": true
 }
