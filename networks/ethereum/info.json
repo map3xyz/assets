@@ -28,7 +28,8 @@
     },
     "name": "Ethereum",
     "regex": {
-      "address": "^0x[a-fA-F0-9]{40}$"
+      "address": "^0x[a-fA-F0-9]{40}$",
+      "memo": null
     },
     "status": "active",
     "symbol": "ETH",

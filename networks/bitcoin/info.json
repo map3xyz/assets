@@ -10,7 +10,8 @@
     ],
     "id": "531924d7-9cd2-4c2b-a56f-6d2bf1c05566",
     "identifiers": {
-        "bip44": 0
+        "bip44": 0,
+        "chainId": null
     },
     "links": {
         "explorer": "https://blockchain.info",
@@ -27,7 +28,8 @@
     },
     "name": "Bitcoin",
     "regex": {
-        "address": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$"
+        "address": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$",
+        "memo": null
     },
     "status": "active",
     "symbol": "BTC",

@@ -10,7 +10,8 @@
     ],
     "id": "4978a57a-f918-4dc4-a5e0-c331b6733ac9",
     "identifiers": {
-      "bip44": 1729
+      "bip44": 1729,
+      "chainId": null
     },
     "links": {
       "explorer": "https://tezos.id",
@@ -27,7 +28,8 @@
     },
     "name": "Tezos",
     "regex": {
-      "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$"
+      "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$",
+      "memo": null
     },
     "status": "active",
     "symbol": "XTZ",

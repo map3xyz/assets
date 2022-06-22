@@ -28,7 +28,8 @@
     },
     "name": "Polygon",
     "regex": {
-      "address": "^(0x)[0-9A-Fa-f]{40}$"
+      "address": "^(0x)[0-9A-Fa-f]{40}$",
+      "memo": null
     },
     "status": "active",
     "symbol": "MATIC",

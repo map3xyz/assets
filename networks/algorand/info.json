@@ -10,7 +10,8 @@
     ],
     "id": "9c5cf3fd-3dca-4051-9bcc-9fd48414382b",
     "identifiers": {
-      "bip44": 283
+      "bip44": 283,
+      "chainId": null
     },
     "links": {
       "explorer": "https://algoexplorer.io/",
@@ -27,7 +28,8 @@
     },
     "name": "Algorand",
     "regex": {
-      "address": "^[A-Z0-9]{58,58}$"
+      "address": "^[A-Z0-9]{58,58}$",
+      "memo": null
     },
     "status": "active",
     "symbol": "ALGO",
