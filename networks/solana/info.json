@@ -1,0 +1,36 @@
+{
+    "color": "#000000",
+    "decimals": 9,
+    "description": [
+      {
+        "locale": "en",
+        "value": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.",
+        "verified": true
+      }
+    ],
+    "id": "410377a6-4168-49c2-8a80-536811395fb2",
+    "identifiers": {
+      "bip44": 501
+    },
+    "links": {
+      "explorer": "https://explorer.solana.com/",
+      "research": "https://research.binance.com/en/projects/solana",
+      "website": "https://solana.com/",
+      "github": "https://github.com/solana-labs",
+      "twitter": "https://twitter.com/solana",
+      "reddit": "https://reddit.com/r/solana",
+      "whitepaper": "https://github.com/solana-labs/whitepaper"
+    },
+    "logo": {
+      "png": true,
+      "svg": true
+    },
+    "name": "Solana",
+    "regex": {
+      "address": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
+    },
+    "status": "active",
+    "symbol": "SOL",
+    "type": "coin",
+    "verified": true
+  }

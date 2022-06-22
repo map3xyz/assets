@@ -1,0 +1,37 @@
+{
+    "color": "#3c3c3d",
+    "decimals": 18,
+    "description": [
+      {
+        "locale": "en",
+        "value": "Open source platform to write and distribute decentralized applications.",
+        "verified": true
+      }
+    ],
+    "id": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
+    "identifiers": {
+      "bip44": 60,
+      "chainId": 1
+    },
+    "links": {
+      "explorer": "https://etherscan.io/",
+      "research": "https://research.binance.com/en/projects/ethereum",
+      "website": "https://ethereum.org/",
+      "github": "https://github.com/ethereum",
+      "twitter": "https://twitter.com/ethereum",
+      "reddit": "https://reddit.com/r/ethereum",
+      "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper"
+    },
+    "logo": {
+      "png": true,
+      "svg": true
+    },
+    "name": "Ethereum",
+    "regex": {
+      "address": "^0x[a-fA-F0-9]{40}$"
+    },
+    "status": "active",
+    "symbol": "ETH",
+    "type": "coin",
+    "verified": true
+  }
