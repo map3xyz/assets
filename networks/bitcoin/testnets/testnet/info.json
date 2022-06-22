@@ -1,9 +1,10 @@
 {
+    "active": true,
     "color": "#F89C2E",
     "decimals": 8,
     "description": [
         {
-            "copy": "[Testnet] Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
+            "value": "[Testnet] Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
             "locale": "en",
             "verified": true
         }
@@ -31,7 +32,7 @@
         "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$",
         "memo": null
     },
-    "status": "active",
+    "spam": false,
     "symbol": "BTC-testnet",
     "tags": [],
     "type": "coin",

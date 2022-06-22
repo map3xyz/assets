@@ -1,4 +1,5 @@
 {
+    "active": true,
     "color": "#000000",
     "decimals": 6,
     "description": [
@@ -31,7 +32,7 @@
       "address": "^[A-Z0-9]{58,58}$",
       "memo": null
     },
-    "status": "active",
+    "spam": false,
     "symbol": "ALGO",
     "tags": [],
     "type": "coin",

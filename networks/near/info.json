@@ -1,4 +1,5 @@
 {
+    "active": true,
     "color": "#262626",
     "decimals": 24,
     "description": [
@@ -31,7 +32,7 @@
       "address": "^(([a-z\\d]+[\\-_])*[a-z\\d]+\\.)*([a-z\\d]+[\\-_])*[a-z\\d]+$",
       "memo": null
     },
-    "status": "active",
+    "spam": false,
     "symbol": "NEAR",
     "tags": [],
     "type": "coin",

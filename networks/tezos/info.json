@@ -1,4 +1,5 @@
 {
+    "active": true,
     "color": "#0F61FF",
     "decimals": 6,
     "description": [
@@ -17,7 +18,7 @@
       "explorer": "https://tezos.id",
       "research": "https://research.binance.com/en/projects/tezos",
       "website": "https://tezos.com/",
-      "source_code": "https://gitlab.com/tezos/tezos",
+      "github": "https://gitlab.com/tezos/tezos",
       "twitter": "https://twitter.com/tezos",
       "reddit": "https://reddit.com/r/tezos",
       "whitepaper": "https://www.tezos.com/static/papers/white_paper.pdf"
@@ -31,7 +32,7 @@
       "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$",
       "memo": null
     },
-    "status": "active",
+    "spam": false,
     "symbol": "XTZ",
     "tags": [
       "staking-native"
