@@ -1,0 +1,41 @@
+{
+    "color": "#F3BA2F",
+    "decimals": 8,
+    "description": [
+      {
+        "locale": "en",
+        "value": "Fast and secure decentralized digital asset exchange. The new crypto currency trading standard is here.",
+        "verified": true
+      }
+    ],
+    "id": "2b3af3c6-65e9-47dd-9869-74c302c1bbdf",
+    "identifiers": {
+      "bip44": 714,
+      "chainId": 56
+    },
+    "links": {
+      "explorer": "https://explorer.binance.org/",
+      "research": "https://research.binance.com/en/projects/bnb",
+      "website": "https://binance.org/",
+      "github": "https://github.com/binance-chain/",
+      "twitter": "https://twitter.com/binance_dex",
+      "reddit": "https://reddit.com/r/BinanceExchange",
+      "whitepaper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
+    },
+    "logo": {
+      "png": true,
+      "svg": true
+    },
+    "name": "BNB Chain",
+    "regex": {
+      "address": "^(bnb1)[0-9a-z]{38}$",
+      "memo": "^[0-9A-Za-z\\-_]{1,120}$"
+    },
+    "status": "active",
+    "symbol": "BNB",
+    "tags": [
+        "staking-native"
+    ],
+    "type": "coin",
+    "verified": true
+  }

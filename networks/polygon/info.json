@@ -1,0 +1,37 @@
+{
+    "color": "#8247e5",
+    "decimals": 18,
+    "description": [
+      {
+        "locale": "en",
+        "value": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
+        "verified": true
+      }
+    ],
+    "id": "d6bffe69-071d-4fa8-9038-d90fac19bf77",
+    "identifiers": {
+      "bip44": 966,
+      "chainId": 137
+    },
+    "links": {
+      "explorer": "https://polygonscan.com/",
+      "research": "https://docs.matic.network/",
+      "website": "https://polygon.technology/",
+      "github": "https://github.com/maticnetwork/",
+      "twitter": "https://twitter.com/0xPolygon",
+      "reddit": "https://reddit.com/r/maticnetwork/",
+      "whitepaper": "https://github.com/maticnetwork/whitepaper"
+    },
+    "logo": {
+      "png": true,
+      "svg": true
+    },
+    "name": "Polygon",
+    "regex": {
+      "address": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    "status": "active",
+    "symbol": "MATIC",
+    "type": "coin",
+    "verified": true
+  }

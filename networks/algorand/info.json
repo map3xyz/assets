@@ -1,0 +1,36 @@
+{
+    "color": "#000000",
+    "decimals": 6,
+    "description": [
+      {
+        "locale": "en",
+        "value": "Algorand is the first blockchain to provide immediate transaction finality. No forking. No uncertainty. Algorand removes the technical barriers that for years undermined mainstream blockchain adoption: decentralization, scale, and security.",
+        "verified": true
+      }
+    ],
+    "id": "9c5cf3fd-3dca-4051-9bcc-9fd48414382b",
+    "identifiers": {
+      "bip44": 283
+    },
+    "links": {
+      "explorer": "https://algoexplorer.io/",
+      "research": "https://research.binance.com/en/projects/algorand",
+      "website": "http://algorand.foundation",
+      "github": "https://github.com/algorand",
+      "twitter": "https://twitter.com/AlgoFoundation",
+      "reddit": "https://reddit.com/r/AlgorandOfficial",
+      "whitepaper": "https://www.algorand.com/resources/white-papers/"
+    },
+    "logo": {
+      "png": true,
+      "svg": true
+    },
+    "name": "Algorand",
+    "regex": {
+      "address": "^[A-Z0-9]{58,58}$"
+    },
+    "status": "active",
+    "symbol": "ALGO",
+    "type": "coin",
+    "verified": true
+  }

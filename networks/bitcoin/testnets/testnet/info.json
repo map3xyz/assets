@@ -3,8 +3,8 @@
     "decimals": 8,
     "description": [
         {
-            "locale": "en",
             "copy": "[Testnet] Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
+            "locale": "en",
             "verified": true
         }
     ],
