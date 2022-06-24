@@ -20,4 +20,4 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
       - name: Validate Repo
-        run: assets-helper validate -r 
+        run: assets-helper validate -r .
