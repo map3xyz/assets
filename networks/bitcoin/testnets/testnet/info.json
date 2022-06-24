@@ -24,8 +24,8 @@
         "whitepaper": "https://bitcoin.org/bitcoin.pdf"
     },
     "logo": {
-        "png": false,
-        "svg": false
+        "png": true,
+        "svg": true
     },
     "name": "Bitcoin Testnet",
     "regex": {
