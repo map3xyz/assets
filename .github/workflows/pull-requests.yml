@@ -1,11 +1,9 @@
 name: Pull Request CI
 on:
-  push:
-    branches:
-      - '*'
-      - '!master'
+
   pull_request:
     branches: [master]
+    types: [opened, edited, reopened, synchronize]
   workflow_dispatch:
 jobs:
   pull_request_ci:
