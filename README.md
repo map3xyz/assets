@@ -12,6 +12,7 @@ Note: for simplicity, we have refrained from using submodules in this sample bra
 All of our files will contain acconmpanying json schema files that enable anyone to verify if an instance is compliant with the schema. We will also enforce a number of rules on every merge. We have created the [assets-helper](https://github.com/map3xyz/assets-helper) library to facilitate this. It will be run as a github workflow, preventing pull requests that don't pass validation from being merged. 
 
 ## Examples
+
 ### Networks
 See `/networks` directory for a list of networks. 
 
@@ -27,5 +28,5 @@ Maps: note that `/networks/matic/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/maps
 ### Verifications
 You can note in the previous map that it has a verification object `/networks/matic/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/maps.json` . 
 
-It followes the 'light curate model'. In the git repo we will only store the IPFS link on chain. 
+It follows the 'light curate model'. In the git repo we will only store the IPFS link on chain. 
 https://kleros.gitbook.io/docs/developer/light-curate
