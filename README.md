@@ -14,6 +14,7 @@ All of our files will contain acconmpanying json schema files that enable anyone
 ## Examples
 
 ### Networks
+
 See `/networks` directory for a list of networks. 
 
 ### Tokens
@@ -26,6 +27,7 @@ Networks with testnets: see `networks/bitcoin`. Note the `testnets` folder.
 Maps: note that `/networks/matic/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/maps.json` claims that USDC on this network is equal to `/networks/ethereum/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/info.json` . You can see that this type of map is of type `direct_issuance` and it references the UUID of USDC on Ethereum via the `to` field.
 
 ### Verifications
+
 You can note in the previous map that it has a verification object `/networks/matic/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/maps.json` . 
 
 It follows the 'light curate model'. In the git repo we will only store the IPFS link on chain. 
