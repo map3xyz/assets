@@ -14,7 +14,7 @@ All of our files will contain acconmpanying json schema files that enable anyone
 ## Examples
 Proposed file structure: 
 
-### Networks
+### Networks
 See `/networks` directory for a list of networks. 
 
 ### Tokens
