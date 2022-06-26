@@ -1,0 +1,12 @@
+[
+    {
+        "to": "3c715402-ec17-435c-b878-d7ddf3586753",
+        "type": "direct_issuance",
+        "verifications": [
+            {
+            "type" : "kleros",
+            "submission": "0x163ec6ab7788eba525a29d1e91fce264c2e3fa7d7b1a25ecc874b3d80e677809"
+            }
+        ]
+    }
+]

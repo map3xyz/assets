@@ -1,0 +1,39 @@
+{
+    "active": true,
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "color": "#3c3c3d",
+    "decimals": 6,
+    "description": [
+      {
+        "locale": "en",
+        "value": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+        "verified": true
+      }
+    ],
+    "id": "3c715402-ec17-435c-b878-d7ddf3586753",
+    "identifiers": {
+      "bip44": null,
+      "chainId": 1
+    },
+    "links": {
+      "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "website": "https://www.centre.io/usdc",
+      "github": "https://github.com/centrehq",
+      "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
+      "medium": "https://medium.com/centre-blog"
+    },
+    "logo": {
+      "png": true,
+      "svg": true
+    },
+    "name": "USDC (USD Coin)",
+    "regex": {
+      "address": "^0x[a-fA-F0-9]{40}$",
+      "memo": null
+    },
+    "spam": false,
+    "symbol": "USDC",
+    "tags": ["stablecoin"],
+    "type": "token",
+    "verified": true
+  }
