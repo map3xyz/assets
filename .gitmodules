@@ -1,3 +1,4 @@
 [submodule "networks/ethereum/tokens/ethereum-tokenlist"]
 	path = networks/ethereum/tokens/ethereum-tokenlist
 	url = https://github.com/map3xyz/ethereum-tokenlist.git
+	branch = master
