@@ -1,0 +1,21 @@
+name: Pull Request CI
+on:
+
+  pull_request:
+    branches: [master]
+    types: [opened, edited, reopened, synchronize]
+  workflow_dispatch:
+jobs:
+  pull_request_ci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Set up Assets CLI
+        run: npm install -g @map3xyz/assets-helper
+      - name: Check out code
+        uses: actions/checkout@v2
+      - name: Validate Repo
+        run: assets-helper validate -r .
