@@ -1,5 +1,6 @@
 {
     "active": true,
+    "assetId": "31f11761-8e2a-4001-94e5-3f5c3099773a",
     "color": "#262626",
     "decimals": 24,
     "description": [
@@ -9,7 +10,6 @@
         "verified": true
       }
     ],
-    "id": "31f11761-8e2a-4001-94e5-3f5c3099773a",
     "identifiers": {
       "bip44": 397,
       "chainId": null
@@ -28,6 +28,7 @@
       "svg": true
     },
     "name": "NEAR Protocol",
+    "networkId": "near",
     "regex": {
       "address": "^(([a-z\\d]+[\\-_])*[a-z\\d]+\\.)*([a-z\\d]+[\\-_])*[a-z\\d]+$",
       "memo": null

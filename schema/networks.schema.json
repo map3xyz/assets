@@ -1,23 +1,24 @@
 {
     "$schema": "https://json-schema.org/draft/2019-09/schema",
-    "$id": "http://example.com/example.json",
+    "$id": "http://map3.xyz/networks.json",
     "type": "object",
     "default": {},
-    "title": "Root Schema",
+    "title": "Networks Schema",
     "required": [
+        "active",
+        "assetId",
         "color",
         "decimals",
         "description",
-        "id",
         "identifiers",
         "links",
         "logo",
         "name",
+        "networkId",
         "regex",
         "symbol",
         "tags",
         "verified",
-        "active",
         "spam",
         "type"
     ],
@@ -92,7 +93,7 @@
                 }]
             ]
         },
-        "id": {
+        "assetId": {
             "type": "string",
             "default": null,
             "title": "The id Schema",
@@ -258,6 +259,14 @@
                 "Ethereum"
             ]
         },
+        "networkId": {
+            "type": "string",
+            "default": null,
+            "title": "The name Schema",
+            "examples": [
+                "ethereum"
+            ]
+        },
         "regex": {
             "type": "object",
             "default": {},
@@ -343,7 +352,7 @@
             "value": "Open source platform to write and distribute decentralized applications.",
             "verified": true
         }],
-        "id": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
+        "assetId": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
         "identifiers": {
             "bip44": 60,
             "chainId": 1
@@ -362,6 +371,7 @@
             "svg": true
         },
         "name": "Ethereum",
+        "networkId": "ethereum",
         "regex": {
             "address": "^0x[a-fA-F0-9]{40}$",
             "memo": null

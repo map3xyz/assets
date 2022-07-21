@@ -1,5 +1,6 @@
 {
     "active": true,
+    "assetId": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
     "color": "#3c3c3d",
     "decimals": 18,
     "description": [
@@ -9,7 +10,6 @@
         "verified": true
       }
     ],
-    "id": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
     "identifiers": {
       "bip44": 60,
       "chainId": 1
@@ -28,6 +28,7 @@
       "svg": true
     },
     "name": "Ethereum",
+    "networkId": "ethereum",
     "regex": {
       "address": "^0x[a-fA-F0-9]{40}$",
       "memo": null

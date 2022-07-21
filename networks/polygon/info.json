@@ -1,5 +1,6 @@
 {
     "active": true,
+    "assetId": "d6bffe69-071d-4fa8-9038-d90fac19bf77",
     "color": "#8247e5",
     "decimals": 18,
     "description": [
@@ -9,7 +10,6 @@
         "verified": true
       }
     ],
-    "id": "d6bffe69-071d-4fa8-9038-d90fac19bf77",
     "identifiers": {
       "bip44": 966,
       "chainId": 137
@@ -28,6 +28,7 @@
       "svg": true
     },
     "name": "Polygon",
+    "networkId": "polygon",
     "regex": {
       "address": "^(0x)[0-9A-Fa-f]{40}$",
       "memo": null

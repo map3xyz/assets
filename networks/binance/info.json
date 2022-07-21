@@ -1,5 +1,6 @@
 {
     "active": true,
+    "assetId": "2b3af3c6-65e9-47dd-9869-74c302c1bbdf",
     "color": "#F3BA2F",
     "decimals": 8,
     "description": [
@@ -9,7 +10,6 @@
         "verified": true
       }
     ],
-    "id": "2b3af3c6-65e9-47dd-9869-74c302c1bbdf",
     "identifiers": {
       "bip44": 714,
       "chainId": 56
@@ -28,6 +28,7 @@
       "svg": true
     },
     "name": "BNB Chain",
+    "networkId": "binance",
     "regex": {
       "address": "^(bnb1)[0-9a-z]{38}$",
       "memo": "^[0-9A-Za-z\\-_]{1,120}$"

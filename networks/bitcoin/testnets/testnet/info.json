@@ -1,5 +1,6 @@
 {
     "active": true,
+    "assetId": "55b0c6c4-b817-4eeb-a2d2-da713d5a9674",
     "color": "#F89C2E",
     "decimals": 8,
     "description": [
@@ -9,7 +10,6 @@
             "verified": true
         }
     ],
-    "id": "55b0c6c4-b817-4eeb-a2d2-da713d5a9674",
     "identifiers": {
         "bip44": null,
         "chainId": null
@@ -28,6 +28,7 @@
         "svg": true
     },
     "name": "Bitcoin Testnet",
+    "networkId": "bitcoin-testnet",
     "regex": {
         "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$",
         "memo": null
