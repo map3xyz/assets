@@ -24,8 +24,14 @@
       "whitepaper": "https://github.com/maticnetwork/whitepaper"
     },
     "logo": {
-      "png": true,
-      "svg": true
+      "png": {
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.png",
+        "ipfs": null
+      },
+      "svg": {
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.svg",
+          "ipfs": null
+      }
     },
     "name": "Polygon",
     "networkId": "polygon",

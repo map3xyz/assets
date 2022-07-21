@@ -230,25 +230,77 @@
             ],
             "properties": {
                 "png": {
-                    "type": "boolean",
-                    "default": false,
+                    "type": "object",
+                    "default": {},
                     "title": "The png Schema",
-                    "examples": [
-                        true
-                    ]
+                    "required": [
+                        "url",
+                        "ipfs"
+                    ],
+                    "properties": {
+                        "url": {
+                            "type": "string",
+                            "default": "",
+                            "title": "The url Schema",
+                            "examples": [
+                                "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png"
+                            ]
+                        },
+                        "ipfs": {
+                            "type": "null",
+                            "default": null,
+                            "title": "The ipfs Schema",
+                            "examples": [
+                                null
+                            ]
+                        }
+                    },
+                    "examples": [{
+                        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png",
+                        "ipfs": null
+                    }]
                 },
                 "svg": {
-                    "type": "boolean",
-                    "default": false,
+                    "type": "object",
+                    "default": {},
                     "title": "The svg Schema",
-                    "examples": [
-                        true
-                    ]
+                    "required": [
+                        "url",
+                        "ipfs"
+                    ],
+                    "properties": {
+                        "url": {
+                            "type": "string",
+                            "default": "",
+                            "title": "The url Schema",
+                            "examples": [
+                                "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg"
+                            ]
+                        },
+                        "ipfs": {
+                            "type": "null",
+                            "default": null,
+                            "title": "The ipfs Schema",
+                            "examples": [
+                                null
+                            ]
+                        }
+                    },
+                    "examples": [{
+                        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg",
+                        "ipfs": null
+                    }]
                 }
             },
             "examples": [{
-                "png": true,
-                "svg": true
+                "png": {
+                    "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png",
+                    "ipfs": null
+                },
+                "svg": {
+                    "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg",
+                    "ipfs": null
+                }
             }]
         },
         "name": {
@@ -367,8 +419,14 @@
             "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper"
         },
         "logo": {
-            "png": true,
-            "svg": true
+            "png": {
+                "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png",
+                "ipfs": null
+            },
+            "svg": {
+                "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg",
+                "ipfs": null
+            }
         },
         "name": "Ethereum",
         "networkId": "ethereum",

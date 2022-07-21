@@ -24,8 +24,14 @@
       "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper"
     },
     "logo": {
-      "png": true,
-      "svg": true
+      "png": {
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png",
+        "ipfs": null
+      },
+      "svg": {
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.svg",
+          "ipfs": null
+      }
     },
     "name": "Ethereum",
     "networkId": "ethereum",

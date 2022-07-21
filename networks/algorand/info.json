@@ -24,8 +24,14 @@
       "whitepaper": "https://www.algorand.com/resources/white-papers/"
     },
     "logo": {
-      "png": true,
-      "svg": true
+      "png": {
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.png",
+        "ipfs": null
+      },
+      "svg": {
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.svg",
+          "ipfs": null
+      }
     },
     "name": "Algorand",
     "networkId": "algorand",

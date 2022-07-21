@@ -24,8 +24,14 @@
       "whitepaper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
     },
     "logo": {
-      "png": true,
-      "svg": true
+      "png": {
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/binance/logo.png",
+        "ipfs": null
+      },
+      "svg": {
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/binance/logo.svg",
+          "ipfs": null
+      }
     },
     "name": "BNB Chain",
     "networkId": "binance",
