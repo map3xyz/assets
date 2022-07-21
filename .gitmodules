@@ -2,3 +2,6 @@
 	path = networks/ethereum/assets/ethereum-tokenlist
 	url = git@github.com:map3xyz/ethereum-tokenlist.git
 	branch = master
+[submodule "networks/polygon/tokens/polygon-tokenlist"]
+	path = networks/polygon/tokens/polygon-tokenlist
+	url = git@github.com:map3xyz/polygon-tokenlist.git
