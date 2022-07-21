@@ -35,6 +35,6 @@
     "spam": false,
     "symbol": "MATIC",
     "tags": [],
-    "type": "coin",
+    "type": "network",
     "verified": true
   }

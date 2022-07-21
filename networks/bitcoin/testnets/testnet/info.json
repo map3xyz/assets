@@ -35,6 +35,6 @@
     "spam": false,
     "symbol": "BTC-testnet",
     "tags": [],
-    "type": "coin",
+    "type": "network",
     "verified": true
 }

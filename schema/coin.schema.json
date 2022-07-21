@@ -99,7 +99,7 @@
             "examples": [
                 "da5eb9b1-7e2b-4976-a260-07a3eab89618"
             ],
-            "description": "The default ID for object of type = coin is a UUID. For object of type = token, it's the concatenation of the network name (hyphen case), a '/', and the contract address or native account/contract Id."
+            "description": "The default ID is a UUID."
         },
         "identifiers": {
             "type": "object",
@@ -297,7 +297,7 @@
         },
         "status": {
             "type": "string",
-            "enum": "[\"coin\",\"token\"]",
+            "enum": "[\"network\",\"asset\"]",
             "title": "The status Schema",
             "examples": [
                 "active"
