@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ff9d6fc0-3ec5-4a03-9319-0dfa8b55ad87",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x1d0e53a0e524e3cc92c1f0f33ae268fff8d7e7a5/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniUSDCETH",
+  "spam": false,
+  "symbol": "aUniUSDCETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

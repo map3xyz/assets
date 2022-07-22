@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "7ffd8118-4b1f-4af3-8ad0-64fb432f1d2e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": "ipfs://QmYNz8J1h5yefkaAw6tZwUYoJyBTWmBXgAY28ZWZ5rPsLR"
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap DAI LP",
+  "spam": false,
+  "symbol": "UniDAIETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

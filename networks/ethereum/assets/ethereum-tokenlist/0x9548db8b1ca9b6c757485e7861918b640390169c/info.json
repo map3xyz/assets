@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x9548DB8b1cA9b6c757485e7861918b640390169c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "db0d361b-ae83-48b4-ae83-412f4235e197",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x9548db8b1ca9b6c757485e7861918b640390169c/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniLINKETH",
+  "spam": false,
+  "symbol": "aUniLINKETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

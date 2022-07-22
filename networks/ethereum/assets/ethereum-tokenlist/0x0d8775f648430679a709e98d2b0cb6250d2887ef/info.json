@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b04b42a4-a947-43d9-beaf-45c2207a5715",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Basic Attention Token",
+  "spam": false,
+  "symbol": "BAT",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

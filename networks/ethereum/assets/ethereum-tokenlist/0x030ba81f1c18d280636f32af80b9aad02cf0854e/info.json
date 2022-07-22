@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "123feddc-c34c-44f2-8910-cbbfb5765eb0",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": "ipfs://QmUDc7LQN6zKHon9FChTqZc7WGFvGPZe698Bq5HbSYtfk9"
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave interest bearing WETH",
+  "spam": false,
+  "symbol": "aWETH",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

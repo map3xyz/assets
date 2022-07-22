@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "70348b1a-f792-4805-8677-1d5b1b3a293b",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "0x Protocol Token",
+  "spam": false,
+  "symbol": "ZRX",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

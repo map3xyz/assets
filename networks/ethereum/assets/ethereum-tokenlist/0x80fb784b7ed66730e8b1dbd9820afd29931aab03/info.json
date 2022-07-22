@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "14539c19-cf5d-4d4b-938d-0a125f480f4c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Lend",
+  "spam": false,
+  "symbol": "LEND",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

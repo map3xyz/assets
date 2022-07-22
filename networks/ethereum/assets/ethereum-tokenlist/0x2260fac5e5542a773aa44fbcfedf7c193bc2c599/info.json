@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "639682a5-6829-42d9-8a5b-aa5b5f814c1e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped BTC",
+  "spam": false,
+  "symbol": "WBTC",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

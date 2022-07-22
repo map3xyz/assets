@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "21d97639-20c0-4ce4-9a4d-6cc76be50357",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave interest bearing LINK",
+  "spam": false,
+  "symbol": "aLINK",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

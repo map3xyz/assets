@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "22227692-a3d6-4ea4-bb96-82f28c290201",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x39c6b3e42d6a679d7d776778fe880bc9487c2eda/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave interest bearing KNC",
+  "spam": false,
+  "symbol": "aKNC",
+  "tags": [
+    "atokenv2"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

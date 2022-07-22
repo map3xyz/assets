@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x71010A9D003445aC60C4e6A7017c1E89A477B438",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f345d474-0421-4a0a-86f2-0380cd743f5e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x71010a9d003445ac60c4e6a7017c1e89a477b438/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing REP",
+  "spam": false,
+  "symbol": "aREP",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

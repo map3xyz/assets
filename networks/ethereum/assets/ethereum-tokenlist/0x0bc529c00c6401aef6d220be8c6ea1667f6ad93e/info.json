@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d61a0a19-1ee7-4908-9266-fb86ba8818cd",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "yearn.finance",
+  "spam": false,
+  "symbol": "YFI",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
