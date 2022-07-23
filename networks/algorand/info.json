@@ -1,6 +1,5 @@
 {
     "active": true,
-    "assetId": "9c5cf3fd-3dca-4051-9bcc-9fd48414382b",
     "color": "#000000",
     "decimals": 6,
     "description": [
@@ -10,6 +9,7 @@
         "verified": true
       }
     ],
+    "id": "9c5cf3fd-3dca-4051-9bcc-9fd48414382b",
     "identifiers": {
       "bip44": 283,
       "chainId": null

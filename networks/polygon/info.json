@@ -1,6 +1,5 @@
 {
     "active": true,
-    "assetId": "d6bffe69-071d-4fa8-9038-d90fac19bf77",
     "color": "#8247e5",
     "decimals": 18,
     "description": [
@@ -14,6 +13,7 @@
       "bip44": 966,
       "chainId": 137
     },
+    "id": "d6bffe69-071d-4fa8-9038-d90fac19bf77",
     "links": {
       "explorer": "https://polygonscan.com/",
       "research": "https://docs.matic.network/",

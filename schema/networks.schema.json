@@ -6,10 +6,10 @@
     "title": "Networks Schema",
     "required": [
         "active",
-        "assetId",
         "color",
         "decimals",
         "description",
+        "id",
         "identifiers",
         "links",
         "logo",
@@ -93,7 +93,7 @@
                 }]
             ]
         },
-        "assetId": {
+        "id": {
             "type": "string",
             "default": null,
             "title": "The id Schema",
@@ -404,7 +404,7 @@
             "value": "Open source platform to write and distribute decentralized applications.",
             "verified": true
         }],
-        "assetId": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
+        "id": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
         "identifiers": {
             "bip44": 60,
             "chainId": 1
