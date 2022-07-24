@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "d5eb1aab-4e33-4cd2-b806-7583a7b1e456",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Shiba Inu",
+  "spam": false,
+  "symbol": "SHIB",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

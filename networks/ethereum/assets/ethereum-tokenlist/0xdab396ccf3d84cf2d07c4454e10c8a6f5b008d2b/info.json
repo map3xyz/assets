@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "695ed493-55d5-4a84-a3fb-521edc5e2b26",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Goldfinch",
+  "spam": false,
+  "symbol": "GFI",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

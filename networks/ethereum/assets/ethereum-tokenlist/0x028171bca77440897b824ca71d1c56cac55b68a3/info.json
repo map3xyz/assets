@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0ae96ef9-293b-48bc-b55b-66d3f7725898",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x028171bca77440897b824ca71d1c56cac55b68a3/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave interest bearing DAI",
+  "spam": false,
+  "symbol": "aDAI",
+  "tags": [
+    "atokenv2",
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

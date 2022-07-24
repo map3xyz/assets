@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "18516f23-ab68-4b81-ba8a-064afdb648a6",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x0954906da0bf32d5479e25f46056d22f08464cab/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Index Cooperative",
+  "spam": false,
+  "symbol": "INDEX",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4B7ee45f30767F36f06F79B32BF1FCa6f726DEda",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "6d220f4c-794d-40fc-9076-424ed37a4e94",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x4b7ee45f30767f36f06f79b32bf1fca6f726deda/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Wrapped Filecoin",
+  "spam": false,
+  "symbol": "EFIL",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

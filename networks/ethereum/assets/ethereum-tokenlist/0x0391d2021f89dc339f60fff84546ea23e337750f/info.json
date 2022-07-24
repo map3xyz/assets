@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "dbe6f3f1-09b4-478f-b519-938241e09deb",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x0391d2021f89dc339f60fff84546ea23e337750f/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "BarnBridge",
+  "spam": false,
+  "symbol": "BOND",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "8b715454-f22a-4035-89b8-3df27401c981",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Dogelon Mars",
+  "spam": false,
+  "symbol": "ELON",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

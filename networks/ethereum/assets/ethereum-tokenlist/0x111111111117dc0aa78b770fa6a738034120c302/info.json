@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "99e61567-1804-4f86-8229-7f1c7430d24a",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x111111111117dc0aa78b770fa6a738034120c302/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "1Inch",
+  "spam": false,
+  "symbol": "1INCH",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

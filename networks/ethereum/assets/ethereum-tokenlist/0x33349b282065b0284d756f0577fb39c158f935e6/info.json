@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x33349B282065b0284d756F0577FB39c158F935e6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "f08f77c7-21ff-4692-a28a-0a78e05edbfa",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x33349b282065b0284d756f0577fb39c158f935e6/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Maple Finance",
+  "spam": false,
+  "symbol": "MPL",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

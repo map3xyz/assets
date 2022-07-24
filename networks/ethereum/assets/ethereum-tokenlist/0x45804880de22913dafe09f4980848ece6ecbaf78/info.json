@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3b989917-6b33-4975-96f3-4f75bea2f09c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x45804880de22913dafe09f4980848ece6ecbaf78/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "PaxosGold",
+  "spam": false,
+  "symbol": "PAXG",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

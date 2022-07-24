@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x2C4Bd064b998838076fa341A83d007FC2FA50957",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5ea6fb8b-ed76-4d42-8ef1-bb1cdf670455",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": "ipfs://QmSS94EJyBeHeUmoDmGjQjeuUHQxTcMaD8Zvw8W8XdGDBv"
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap MKR LP",
+  "spam": false,
+  "symbol": "UniMKRETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

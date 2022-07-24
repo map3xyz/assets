@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "8578d045-7dd9-4d50-b80d-03da0f587e10",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x41e5560054824ea6b0732e656e3ad64e20e94e45/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Civic",
+  "spam": false,
+  "symbol": "CVC",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

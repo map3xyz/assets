@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xc88ebbf7C523f38Ef3eB8A151273C0F0dA421e63",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "04305cad-5d4f-4129-983a-40d7afd859fa",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xc88ebbf7c523f38ef3eb8a151273c0f0da421e63/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniLENDETH",
+  "spam": false,
+  "symbol": "aUniLENDETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

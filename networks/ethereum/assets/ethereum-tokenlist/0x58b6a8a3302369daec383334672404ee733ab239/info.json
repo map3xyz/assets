@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0c174ce7-d4dc-438e-8ed7-22fd5ceb5129",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x58b6a8a3302369daec383334672404ee733ab239/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Livepeer",
+  "spam": false,
+  "symbol": "LPT",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

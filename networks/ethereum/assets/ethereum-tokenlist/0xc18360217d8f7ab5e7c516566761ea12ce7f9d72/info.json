@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1038b147-eb96-452d-9df2-908a1f57c39d",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Ethereum Name Service",
+  "spam": false,
+  "symbol": "ENS",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

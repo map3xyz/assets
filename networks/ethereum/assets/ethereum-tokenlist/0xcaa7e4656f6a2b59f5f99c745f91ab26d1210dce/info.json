@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xcaA7e4656f6A2B59f5f99c745F91AB26D1210DCe",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b5f36577-c8cf-4ffd-b9fb-4674da905e11",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": "ipfs://Qmcbin86EXd14LhbqLknH9kM3N7oueBYt9qQmZdmMWqrgu"
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap LEND LP",
+  "spam": false,
+  "symbol": "UniLENDETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

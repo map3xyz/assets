@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a219de28-061f-41e2-8ef0-02195a899748",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Decentraland MANA",
+  "spam": false,
+  "symbol": "MANA",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

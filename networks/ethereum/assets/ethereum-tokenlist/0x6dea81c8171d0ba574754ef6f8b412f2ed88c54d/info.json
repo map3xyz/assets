@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cfcd05c0-a05e-45cb-99da-97cc6c92ffa6",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Liquity",
+  "spam": false,
+  "symbol": "LQTY",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

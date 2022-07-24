@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x23894DC9da6c94ECb439911cAF7d337746575A72",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "bd990ae6-1444-4e61-9ec5-8cdf4ad0785a",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x23894dc9da6c94ecb439911caf7d337746575a72/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Geojam",
+  "spam": false,
+  "symbol": "JAM",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

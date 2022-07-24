@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "76ef0f85-dcf6-49eb-babc-64dff96a121d",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Rally",
+  "spam": false,
+  "symbol": "RLY",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

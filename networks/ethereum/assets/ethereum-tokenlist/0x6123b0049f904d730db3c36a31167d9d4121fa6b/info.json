@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "74308cdd-d82c-4a14-a4fd-6417da30b956",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x6123b0049f904d730db3c36a31167d9d4121fa6b/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Ribbon Finance",
+  "spam": false,
+  "symbol": "RBN",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "aa7b77a2-c3ee-450a-b701-e222feaf069e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Metis",
+  "spam": false,
+  "symbol": "METIS",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

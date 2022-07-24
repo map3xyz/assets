@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ebc1ec08-61ff-45d8-b8d9-baa31379bb5e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xff20817765cb7f73d4bde2e66e067e58d11095c2/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Amp",
+  "spam": false,
+  "symbol": "AMP",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

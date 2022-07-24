@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "ec33eac2-5889-4d05-bc27-1e4638a87ea4",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x4d224452801aced8b2f0aebe155379bb5d594381/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "ApeCoin",
+  "spam": false,
+  "symbol": "APE",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

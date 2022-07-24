@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "076e8016-66d2-4ab4-8882-ed81a0fccc52",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x7deb5e830be29f91e298ba5ff1356bb7f8146998/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing MKR",
+  "spam": false,
+  "symbol": "aMKR",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "a0d4c867-971c-460b-b2aa-436cf4369a77",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Gala",
+  "spam": false,
+  "symbol": "GALA",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

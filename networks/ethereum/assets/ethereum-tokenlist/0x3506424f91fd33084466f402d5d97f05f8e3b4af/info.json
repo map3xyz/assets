@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e848735e-de0b-4dd8-9e51-95e5ac8f9fe3",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x3506424f91fd33084466f402d5d97f05f8e3b4af/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Chiliz",
+  "spam": false,
+  "symbol": "CHZ",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

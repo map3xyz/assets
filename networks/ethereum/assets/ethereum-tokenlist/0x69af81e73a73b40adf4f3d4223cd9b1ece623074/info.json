@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "dcb6ce70-a618-4456-88f7-76e2ccbcf101",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x69af81e73a73b40adf4f3d4223cd9b1ece623074/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Mask Network",
+  "spam": false,
+  "symbol": "MASK",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

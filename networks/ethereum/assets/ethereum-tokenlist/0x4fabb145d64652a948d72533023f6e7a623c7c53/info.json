@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0667045f-5f7e-4dfc-8e7a-d3bf972ec8b9",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Binance USD",
+  "spam": false,
+  "symbol": "BUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

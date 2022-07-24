@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xfC98e825A2264D890F9a1e68ed50E1526abCcacD",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5aebbcc9-6783-416b-b0dd-3bc1aac93d7c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xfc98e825a2264d890f9a1e68ed50e1526abccacd/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Moss Carbon Credit",
+  "spam": false,
+  "symbol": "MCO2",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

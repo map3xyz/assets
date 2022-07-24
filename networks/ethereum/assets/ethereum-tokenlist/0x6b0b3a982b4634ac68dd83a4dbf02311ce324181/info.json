@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x6B0b3a982b4634aC68dD83a4DBF02311cE324181",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "e2a0f819-81d4-4732-922d-881852d08230",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x6b0b3a982b4634ac68dd83a4dbf02311ce324181/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Alethea Artificial Liquid Intelligence",
+  "spam": false,
+  "symbol": "ALI",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

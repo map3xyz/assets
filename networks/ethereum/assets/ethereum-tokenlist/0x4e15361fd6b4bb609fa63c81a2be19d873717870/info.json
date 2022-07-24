@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1444ece1-6497-4a73-b3de-592e2b36d0c0",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x4e15361fd6b4bb609fa63c81a2be19d873717870/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Fantom",
+  "spam": false,
+  "symbol": "FTM",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

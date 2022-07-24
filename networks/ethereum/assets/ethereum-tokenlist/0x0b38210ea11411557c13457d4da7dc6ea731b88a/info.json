@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b1a02a30-6790-4228-8d41-5a83a69dfb79",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x0b38210ea11411557c13457d4da7dc6ea731b88a/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "API3",
+  "spam": false,
+  "symbol": "API3",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

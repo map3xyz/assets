@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b1f8677b-d2d7-4318-858a-0a28a760280c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Magic Internet Money",
+  "spam": false,
+  "symbol": "MIM",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

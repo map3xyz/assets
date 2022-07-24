@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "042ced83-9e74-45ed-bf66-0f040373f4b1",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Republic Token",
+  "spam": false,
+  "symbol": "REN",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

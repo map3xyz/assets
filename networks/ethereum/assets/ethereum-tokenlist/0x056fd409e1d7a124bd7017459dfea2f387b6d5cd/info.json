@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+  "color": null,
+  "decimals": 2,
+  "description": [],
+  "id": "5d82da97-f4b4-4067-bc87-c0c813ba89ac",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "GeminiDollar",
+  "spam": false,
+  "symbol": "GUSD",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

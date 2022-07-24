@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "42588eba-04c2-4c46-8791-42b2660fc819",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x4c19596f5aaff459fa38b0f7ed92f11ae6543784/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "TrueFi",
+  "spam": false,
+  "symbol": "TRU",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

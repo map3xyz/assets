@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x6179078872605396Ee62960917128F9477a5DdbB",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5b027b46-da50-49d1-a55d-7e44687ec04e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniETH",
+  "spam": false,
+  "symbol": "aUniETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

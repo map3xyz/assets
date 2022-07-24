@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "95d96c5e-cf8f-4bf1-a34a-f4efd1ee0d2c",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Sushiswap",
+  "spam": false,
+  "symbol": "SUSHI",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

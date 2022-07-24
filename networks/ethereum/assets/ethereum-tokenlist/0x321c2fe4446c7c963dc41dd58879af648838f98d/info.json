@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "af3620f4-92df-4fad-81c8-97a250621eac",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x321c2fe4446c7c963dc41dd58879af648838f98d/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Cryptex Finance",
+  "spam": false,
+  "symbol": "CTX",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

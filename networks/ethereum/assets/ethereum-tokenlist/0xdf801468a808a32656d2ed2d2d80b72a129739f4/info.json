@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "f0262158-028c-4b47-a3f4-37799879cc4b",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xdf801468a808a32656d2ed2d2d80b72a129739f4/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Somnium Space",
+  "spam": false,
+  "symbol": "CUBE",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "1fd0d6df-0458-45b7-b86a-d9cf5caa676e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xe28b3b32b6c345a34ff64674606124dd5aceca30/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Injective",
+  "spam": false,
+  "symbol": "INJ",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

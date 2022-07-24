@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0d9306b7-fecc-4790-a20d-24bcd664fcdd",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Skale",
+  "spam": false,
+  "symbol": "SKL",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

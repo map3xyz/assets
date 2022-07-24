@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e97cd798-2382-49aa-aaa4-35872120886e",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x5f98805a4e8be255a32880fdec7f6728c6568ba0/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Liquity USD",
+  "spam": false,
+  "symbol": "LUSD",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

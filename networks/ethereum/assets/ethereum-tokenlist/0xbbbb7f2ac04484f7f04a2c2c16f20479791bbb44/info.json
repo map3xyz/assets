@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0xBbBb7F2aC04484F7F04A2C2C16f20479791BbB44",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "5a4a2ad4-dfc6-42e4-be66-b902204c1f67",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xbbbb7f2ac04484f7f04a2c2c16f20479791bbb44/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing UniDAIETH",
+  "spam": false,
+  "symbol": "aUniDAIETH",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

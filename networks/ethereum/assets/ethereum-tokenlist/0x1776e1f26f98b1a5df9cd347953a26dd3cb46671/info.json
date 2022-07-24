@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "a447dc5a-9ffe-4598-b5e4-bc52484ab7f4",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Numeraire",
+  "spam": false,
+  "symbol": "NMR",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

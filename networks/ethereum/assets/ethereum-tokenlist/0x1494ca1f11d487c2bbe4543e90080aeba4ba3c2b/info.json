@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "86769b06-3578-4dbd-81b5-d4d06707cc54",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "DeFi Pulse Index",
+  "spam": false,
+  "symbol": "DPI",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

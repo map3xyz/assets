@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+  "color": null,
+  "decimals": 8,
+  "description": [],
+  "id": "426c460c-657d-4906-8975-f3b0ac0e788b",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Storj",
+  "spam": false,
+  "symbol": "STORJ",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

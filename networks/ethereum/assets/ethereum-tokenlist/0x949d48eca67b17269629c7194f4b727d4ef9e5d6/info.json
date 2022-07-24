@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "3f6f51a7-c43f-4a30-bbab-b670a33c2dd6",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x949d48eca67b17269629c7194f4b727d4ef9e5d6/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Merit Circle",
+  "spam": false,
+  "symbol": "MC",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

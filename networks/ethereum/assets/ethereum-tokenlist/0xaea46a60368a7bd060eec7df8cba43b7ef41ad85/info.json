@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "9e4ce87a-b80a-4111-8f25-581a00993b67",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xaea46a60368a7bd060eec7df8cba43b7ef41ad85/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Fetch.ai",
+  "spam": false,
+  "symbol": "FET",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "eeb3df46-8090-4507-b9ef-93e738e1498b",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Polygon",
+  "spam": false,
+  "symbol": "MATIC",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

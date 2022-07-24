@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cbb6903b-ad9f-42dd-bd2c-67d1a08d7237",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xc00e94cb662c3520282e6f5717214004a7f26888/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Compound",
+  "spam": false,
+  "symbol": "COMP",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

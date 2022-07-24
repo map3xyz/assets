@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "64206a9f-5ed6-4a10-be49-418a7cc76452",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Enjin Coin",
+  "spam": false,
+  "symbol": "ENJ",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

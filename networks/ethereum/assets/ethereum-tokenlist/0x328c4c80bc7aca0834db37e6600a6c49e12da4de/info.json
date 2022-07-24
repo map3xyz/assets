@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "725d18fe-efa7-429b-8df0-1755ee8248e2",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": "ipfs://QmXj52EGotmpyep84PBycmQnAgCF2sbqxdXFWP3GPZFbEz"
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Aave Interest bearing SNX",
+  "spam": false,
+  "symbol": "aSNX",
+  "tags": [
+    "atokenv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "address": "0x97deC872013f6B5fB443861090ad931542878126",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "4a5f5ced-84d4-42aa-8c0d-bf2aa6768f7d",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": "ipfs://Qme9QQcNzKvk3FEwEZvvKJWSvDUd41z5geWHNpuJb6di9y"
+    },
+    "svg": {
+      "url": null,
+      "ipfs": null
+    }
+  },
+  "name": "Uniswap USDC LP",
+  "spam": false,
+  "symbol": "UniUSDCETH",
+  "tags": [
+    "unilpv1"
+  ],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

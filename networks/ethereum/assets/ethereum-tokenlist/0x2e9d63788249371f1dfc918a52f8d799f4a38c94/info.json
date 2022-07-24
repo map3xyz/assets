@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "b39f2389-772a-45e1-847d-3aea3c4f80da",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x2e9d63788249371f1dfc918a52f8d799f4a38c94/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Tokemak",
+  "spam": false,
+  "symbol": "TOKE",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

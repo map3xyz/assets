@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "e20de265-3b00-46ae-8024-1bba14bd3af1",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "Radicle",
+  "spam": false,
+  "symbol": "RAD",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

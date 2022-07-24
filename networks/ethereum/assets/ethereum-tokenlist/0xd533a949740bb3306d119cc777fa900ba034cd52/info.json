@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "0d06de82-c305-4ca1-b8cf-d8d067bd764b",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xd533a949740bb3306d119cc777fa900ba034cd52/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "CurveDAOToken",
+  "spam": false,
+  "symbol": "CRV",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}

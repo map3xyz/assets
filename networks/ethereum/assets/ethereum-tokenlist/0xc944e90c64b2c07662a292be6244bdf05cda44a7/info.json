@@ -1,0 +1,38 @@
+{
+  "active": true,
+  "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+  "color": null,
+  "decimals": 18,
+  "description": [],
+  "id": "cced1b35-4f07-487b-b648-74f482b3a445",
+  "links": {
+    "explorer": null,
+    "research": null,
+    "website": null,
+    "github": null,
+    "medium": null,
+    "twitter": null,
+    "reddit": null,
+    "whitepaper": null
+  },
+  "logo": {
+    "png": {
+      "url": null,
+      "ipfs": null
+    },
+    "svg": {
+      "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/assets/ethereum-tokenlist/0xc944e90c64b2c07662a292be6244bdf05cda44a7/logo.svg",
+      "ipfs": null
+    }
+  },
+  "name": "The Graph",
+  "spam": false,
+  "symbol": "GRT",
+  "tags": [],
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
