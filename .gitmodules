@@ -1,7 +1,6 @@
-[submodule "networks/ethereum/assets/ethereum-tokenlist"]
-	path = networks/ethereum/assets/ethereum-tokenlist
-	url = git@github.com:map3xyz/ethereum-tokenlist.git
-	branch = master
 [submodule "networks/polygon/assets/polygon-tokenlist"]
 	path = networks/polygon/assets/polygon-tokenlist
 	url = git@github.com:map3xyz/polygon-tokenlist.git
+[submodule "networks/ethereum/assets/ethereum-tokenlist"]
+	path = networks/ethereum/assets/ethereum-tokenlist
+	url = git@github.com:map3xyz/ethereum-tokenlist.git
