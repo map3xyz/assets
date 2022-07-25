@@ -1,0 +1,2 @@
+type	version	description	verification			
+direct_issuance	0	Direct Issuance Maps refers to assets that are centrally issued by an organisation manually on different crypto networks. Examples of these are USDC (issued by Centre https://www.centre.io/usdc) and USDT (issued by Tether https://tether.to/). 	It MUST be ascertained by checking on the central issuers official website or documentation that these assets are equivalent and are issued by the same organisation. 			
