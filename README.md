@@ -1,6 +1,7 @@
 # Map3 Assets
 
 Hey there!
+
 ![No Docs, Yet!](https://media3.giphy.com/media/OWVrMAxmD9jxe/giphy.gif)
 
 We love being embarrased at launch. Otherwise, we launched too late!
