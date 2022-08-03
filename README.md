@@ -1,9 +1,7 @@
 # Map3 Assets
 
 Hey there!
-[No Docs, Yet!](https://giphy.com/gifs/cat-OWVrMAxmD9jxe?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
-
-No Docs (yet!)
+![No Docs, Yet!](https://media3.giphy.com/media/OWVrMAxmD9jxe/giphy.gif)
 
 We love being embarrased at launch. Otherwise, we launched too late!
 Don't worry, [we're real](https://www.linkedin.com/in/amadeopellicce/) :) 
