@@ -2,17 +2,12 @@
     "active": true,
     "color": "#0F61FF",
     "decimals": 6,
-    "description": [
-      {
-        "locale": "en",
-        "value": "Tezos is a smart contract platform that uses blockchain voting to be self-governing by its token holders. Also, the platform aims to boost the security of smart contracts.",
-        "verified": true
-      }
-    ],
+    "description": {
+        "en":  "Tezos is a smart contract platform that uses blockchain voting to be self-governing by its token holders. Also, the platform aims to boost the security of smart contracts."
+    },
     "id": "4978a57a-f918-4dc4-a5e0-c331b6733ac9",
     "identifiers": {
-      "bip44": 1729,
-      "chainId": null
+      "bip44": 1729
     },
     "links": {
       "explorer": "https://tezos.id",
@@ -25,19 +20,16 @@
     },
     "logo": {
       "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.png",
-        "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.png"
       },
       "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.svg",
-          "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.svg"
       }
     },
     "name": "Tezos",
     "networkId": "tezos",
     "regex": {
-      "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$",
-      "memo": null
+      "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$"
     },
     "spam": false,
     "symbol": "XTZ",
@@ -45,5 +37,5 @@
       "staking-native"
     ],
     "type": "network",
-    "verified": true
+    "verifications": []
   }

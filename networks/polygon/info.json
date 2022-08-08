@@ -2,13 +2,9 @@
     "active": true,
     "color": "#8247e5",
     "decimals": 18,
-    "description": [
-      {
-        "locale": "en",
-        "value": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
-        "verified": true
-      }
-    ],
+    "description": {
+        "en": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem"
+    },
     "identifiers": {
       "bip44": 966,
       "chainId": 137
@@ -25,23 +21,20 @@
     },
     "logo": {
       "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.png",
-        "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.png"
       },
       "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.svg",
-          "ipfs": null
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.svg"
       }
     },
     "name": "Polygon",
     "networkId": "polygon",
     "regex": {
-      "address": "^(0x)[0-9A-Fa-f]{40}$",
-      "memo": null
+      "address": "^(0x)[0-9A-Fa-f]{40}$"
     },
     "spam": false,
     "symbol": "MATIC",
     "tags": [],
     "type": "network",
-    "verified": true
+    "verifications": []
   }

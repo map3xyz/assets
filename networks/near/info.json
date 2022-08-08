@@ -2,17 +2,12 @@
     "active": true,
     "color": "#262626",
     "decimals": 24,
-    "description": [
-      {
-        "locale": "en",
-        "value": "NEAR is an open source platform that accelerates the development of decentralized applications.",
-        "verified": true
-      }
-    ],
+    "description": {
+        "en": "NEAR is an open source platform that accelerates the development of decentralized applications."
+    },
     "id": "31f11761-8e2a-4001-94e5-3f5c3099773a",
     "identifiers": {
-      "bip44": 397,
-      "chainId": null
+      "bip44": 397    
     },
     "links": {
       "explorer": "https://explorer.near.org/",
@@ -25,23 +20,20 @@
     },
     "logo": {
       "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/near/logo.png",
-        "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/near/logo.png"
       },
       "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/near/logo.svg",
-          "ipfs": null
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/near/logo.svg"
       }
     },
     "name": "NEAR Protocol",
     "networkId": "near",
     "regex": {
-      "address": "^(([a-z\\d]+[\\-_])*[a-z\\d]+\\.)*([a-z\\d]+[\\-_])*[a-z\\d]+$",
-      "memo": null
+      "address": "^(([a-z\\d]+[\\-_])*[a-z\\d]+\\.)*([a-z\\d]+[\\-_])*[a-z\\d]+$"
     },
     "spam": false,
     "symbol": "NEAR",
     "tags": [],
     "type": "network",
-    "verified": true
+    "verifications": []
   }

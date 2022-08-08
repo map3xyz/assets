@@ -2,13 +2,9 @@
     "active": true,
     "color": "#3c3c3d",
     "decimals": 18,
-    "description": [
-      {
-        "locale": "en",
-        "value": "Open source platform to write and distribute decentralized applications.",
-        "verified": true
-      }
-    ],
+    "description": {
+        "en": "Open source platform to write and distribute decentralized applications."
+    },
     "id": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
     "identifiers": {
       "bip44": 60,
@@ -25,23 +21,20 @@
     },
     "logo": {
       "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png",
-        "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png"
       },
       "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.svg",
-          "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.svg"
       }
     },
     "name": "Ethereum",
     "networkId": "ethereum",
     "regex": {
-      "address": "^0x[a-fA-F0-9]{40}$",
-      "memo": null
+      "address": "^0x[a-fA-F0-9]{40}$"
     },
     "spam": false,
     "symbol": "ETH",
     "tags": [],
     "type": "network",
-    "verified": true
+    "verifications": []
   }

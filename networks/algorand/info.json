@@ -2,17 +2,12 @@
     "active": true,
     "color": "#000000",
     "decimals": 6,
-    "description": [
-      {
-        "locale": "en",
-        "value": "Algorand is the first blockchain to provide immediate transaction finality. No forking. No uncertainty. Algorand removes the technical barriers that for years undermined mainstream blockchain adoption: decentralization, scale, and security.",
-        "verified": true
-      }
-    ],
+    "description": {
+        "en": "Algorand is the first blockchain to provide immediate transaction finality. No forking. No uncertainty. Algorand removes the technical barriers that for years undermined mainstream blockchain adoption: decentralization, scale, and security." 
+    },
     "id": "9c5cf3fd-3dca-4051-9bcc-9fd48414382b",
     "identifiers": {
-      "bip44": 283,
-      "chainId": null
+      "bip44": 283
     },
     "links": {
       "explorer": "https://algoexplorer.io/",
@@ -25,23 +20,20 @@
     },
     "logo": {
       "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.png",
-        "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.png"
       },
       "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.svg",
-          "ipfs": null
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.svg"
       }
     },
     "name": "Algorand",
     "networkId": "algorand",
     "regex": {
-      "address": "^[A-Z0-9]{58,58}$",
-      "memo": null
+      "address": "^[A-Z0-9]{58,58}$"
     },
     "spam": false,
     "symbol": "ALGO",
     "tags": [],
     "type": "network",
-    "verified": true
+    "verifications": []
   }
