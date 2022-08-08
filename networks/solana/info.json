@@ -2,17 +2,12 @@
     "active": true,
     "color": "#000000",
     "decimals": 9,
-    "description": [
-      {
-        "locale": "en",
-        "value": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.",
-        "verified": true
-      }
-    ],
+    "description": {
+        "en": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data."
+    },
     "id": "410377a6-4168-49c2-8a80-536811395fb2",
     "identifiers": {
-      "bip44": 501,
-      "chainId": null
+      "bip44": 501
     },
     "links": {
       "explorer": "https://explorer.solana.com/",
@@ -25,23 +20,20 @@
     },
     "logo": {
       "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png",
-        "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png"
       },
       "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg",
-          "ipfs": null
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg"
       }
     },
     "name": "Solana",
     "networkId": "solana",
     "regex": {
-      "address": "^[1-9A-HJ-NP-Za-km-z]{32,44}$",
-      "memo": null
+      "address": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
     },
     "spam": false,
     "symbol": "SOL",
     "tags": [],
     "type": "network",
-    "verified": true
+    "verifications": []
   }

@@ -2,13 +2,9 @@
     "active": true,
     "color": "#F3BA2F",
     "decimals": 8,
-    "description": [
-      {
-        "locale": "en",
-        "value": "Fast and secure decentralized digital asset exchange. The new crypto currency trading standard is here.",
-        "verified": true
-      }
-    ],
+    "description": {
+        "en": "Fast and secure decentralized digital asset exchange. The new crypto currency trading standard is here."
+    },
     "id": "2b3af3c6-65e9-47dd-9869-74c302c1bbdf",
     "identifiers": {
       "bip44": 714,
@@ -25,12 +21,10 @@
     },
     "logo": {
       "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/binance/logo.png",
-        "ipfs": null
+        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/binance/logo.png"
       },
       "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/binance/logo.svg",
-          "ipfs": null
+          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/binance/logo.svg"
       }
     },
     "name": "BNB Chain",
@@ -45,5 +39,5 @@
         "staking-native"
     ],
     "type": "network",
-    "verified": true
+    "verifications": []
   }

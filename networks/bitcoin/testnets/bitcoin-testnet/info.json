@@ -2,18 +2,11 @@
     "active": true,
     "color": "#F89C2E",
     "decimals": 8,
-    "description": [
-        {
-            "value": "[Testnet] Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
-            "locale": "en",
-            "verified": true
-        }
-    ],
-    "id": "55b0c6c4-b817-4eeb-a2d2-da713d5a9674",
-    "identifiers": {
-        "bip44": null,
-        "chainId": null
+    "description": {
+            "en": "[Testnet] Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator."
     },
+    "id": "55b0c6c4-b817-4eeb-a2d2-da713d5a9674",
+    "identifiers": null,
     "links": {
         "explorer": "https://www.blockchain.com/explorer?view=btc-testnet",
         "github": "https://github.com/bitcoin",
@@ -25,23 +18,20 @@
     },
     "logo": {
         "png": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.png",
-          "ipfs": null
+            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.png"
         },
         "svg": {
-            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.svg",
-            "ipfs": null
+            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.svg"
         }
     },
     "name": "Bitcoin Testnet",
     "networkId": "bitcoin-testnet",
     "regex": {
-        "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$",
-        "memo": null
+        "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$"
     },
     "spam": false,
     "symbol": "BTC-testnet",
     "tags": [],
     "type": "network",
-    "verified": true
+    "verifications": []
 }

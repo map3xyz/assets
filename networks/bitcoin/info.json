@@ -2,17 +2,12 @@
     "active": true,
     "color": "#F89C2E",
     "decimals": 8,
-    "description": [
-        {
-            "locale": "en",
-            "value": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator.",
-            "verified": true
-        }
-    ],
+    "description": {
+        "en": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator."
+    },
     "id": "531924d7-9cd2-4c2b-a56f-6d2bf1c05566",
     "identifiers": {
-        "bip44": 0,
-        "chainId": null
+        "bip44": 0
     },
     "links": {
         "explorer": "https://blockchain.info",
@@ -25,23 +20,20 @@
     },
     "logo": {
         "png": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.png",
-          "ipfs": null
+            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.png"
         },
         "svg": {
-            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.svg",
-            "ipfs": null
+            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.svg"
         }
     },
     "name": "Bitcoin",
     "networkId": "bitcoin",
     "regex": {
-        "address": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$",
-        "memo": null
+        "address": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$"
     },
     "spam": false,
     "symbol": "BTC",
     "tags": [],
     "type": "network",
-    "verified": true
+    "verifications": []
 }
