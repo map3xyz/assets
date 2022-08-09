@@ -1,0 +1,201 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "default": {},
+    "title": "Root Schema",
+    "required": [
+        "active",
+        "address",
+        "color",
+        "decimals",
+        "description",
+        "id",
+        "links",
+        "logo",
+        "name",
+        "networkId",
+        "spam",
+        "symbol",
+        "tags",
+        "type",
+        "verifications",
+        "version"
+    ],
+    "properties": {
+        "active": {
+            "type": "boolean",
+            "default": false,
+            "title": "The active Schema",
+            "examples": [
+                true
+            ]
+        },
+        "address": {
+            "type": "string",
+            "default": "",
+            "title": "The address Schema",
+            "examples": [
+                "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+            ]
+        },
+        "color": {
+            "type": "null",
+            "default": null,
+            "title": "The color Schema",
+            "examples": [
+                null,
+                "#FF5733"
+            ]
+        },
+        "decimals": {
+            "type": "integer",
+            "default": 0,
+            "title": "The decimals Schema",
+            "examples": [
+                6
+            ]
+        },
+        "description": {
+            "type": "null",
+            "default": null,
+            "title": "The description Schema",
+            "examples": [
+                null
+            ]
+        },
+        "id": {
+            "type": "string",
+            "default": "",
+            "title": "The id Schema",
+            "examples": [
+                "57f5c072-b121-4536-b181-e7d40a20208f"
+            ]
+        },
+        "links": {
+            "type": "null",
+            "default": null,
+            "title": "The links Schema",
+            "examples": [
+                null
+            ]
+        },
+        "logo": {
+            "type": "object",
+            "default": {},
+            "title": "The logo Schema",
+            "required": [
+                "png"
+            ],
+            "properties": {
+                "png": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The png Schema",
+                    "examples": [
+                        "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+                    ]
+                }
+            },
+            "examples": [{
+                "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+            }]
+        },
+        "name": {
+            "type": "string",
+            "default": "",
+            "title": "The name Schema",
+            "examples": [
+                "USD Coin"
+            ]
+        },
+        "networkId": {
+            "type": "string",
+            "default": "",
+            "title": "The networkId Schema",
+            "examples": [
+                "ethereum"
+            ]
+        },
+        "spam": {
+            "type": "boolean",
+            "default": false,
+            "title": "The spam Schema",
+            "examples": [
+                false
+            ]
+        },
+        "symbol": {
+            "type": "string",
+            "default": "",
+            "title": "The symbol Schema",
+            "examples": [
+                "USDC"
+            ]
+        },
+        "tags": {
+            "type": "array",
+            "default": [],
+            "title": "The tags Schema",
+            "items": {
+                "type": "string",
+                "default": "",
+                "title": "A Schema",
+                "examples": [
+                    "stablecoin"
+                ]
+            },
+            "examples": [
+                [
+                    "stablecoin"]
+            ]
+        },
+        "type": {
+            "type": "string",
+            "default": "",
+            "title": "The type Schema",
+            "examples": [
+                "asset"
+            ]
+        },
+        "verifications": {
+            "type": "array",
+            "default": [],
+            "title": "The verifications Schema",
+            "items": {},
+            "examples": [
+                []
+            ]
+        },
+        "version": {
+            "type": "string",
+            "default": "",
+            "title": "The version Schema",
+            "examples": [
+                "0.0.1"
+            ]
+        }
+    },
+    "examples": [{
+        "active": true,
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "color": null,
+        "decimals": 6,
+        "description": null,
+        "id": "57f5c072-b121-4536-b181-e7d40a20208f",
+        "links": null,
+        "logo": {
+            "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        "name": "USD Coin",
+        "networkId": "ethereum",
+        "spam": false,
+        "symbol": "USDC",
+        "tags": [
+            "stablecoin"
+        ],
+        "type": "asset",
+        "verifications": [],
+        "version": "0.0.1"
+    }]
+}
