@@ -19,12 +19,8 @@
       "whitepaper": "https://www.tezos.com/static/papers/white_paper.pdf"
     },
     "logo": {
-      "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.png"
-      },
-      "svg": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.svg"
-      }
+      "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.png",
+      "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.svg"
     },
     "name": "Tezos",
     "networkId": "tezos",
