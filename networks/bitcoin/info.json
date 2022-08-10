@@ -19,12 +19,8 @@
         "whitepaper": "https://bitcoin.org/bitcoin.pdf"
     },
     "logo": {
-        "png": {
-            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.png"
-        },
-        "svg": {
-            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.svg"
-        }
+        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.png",
+        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/logo.svg"
     },
     "name": "Bitcoin",
     "networkId": "bitcoin",
