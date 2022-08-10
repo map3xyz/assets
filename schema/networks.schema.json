@@ -1,0 +1,311 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "default": {},
+    "title": "Root Schema",
+    "required": [
+        "active",
+        "color",
+        "decimals",
+        "description",
+        "id",
+        "identifiers",
+        "links",
+        "logo",
+        "name",
+        "networkId",
+        "regex",
+        "spam",
+        "symbol",
+        "tags",
+        "type",
+        "verifications"
+    ],
+    "properties": {
+        "active": {
+            "type": "boolean",
+            "default": false,
+            "title": "The active Schema",
+            "examples": [
+                true
+            ]
+        },
+        "color": {
+            "type": "string",
+            "default": null,
+            "title": "The color Schema",
+            "examples": [
+                "#3c3c3d"
+            ]
+        },
+        "decimals": {
+            "type": "integer",
+            "default": 0,
+            "title": "The decimals Schema",
+            "examples": [
+                18
+            ]
+        },
+        "description": {
+            "type": "object",
+            "title": "The description Schema",
+            "required": [],
+            "properties": {},
+            "examples": [{
+                "en": "Open source platform to write and distribute decentralized applications."
+            }]
+        },
+        "id": {
+            "type": "string",
+            "default": "",
+            "title": "The id Schema",
+            "examples": [
+                "da5eb9b1-7e2b-4976-a260-07a3eab89618"
+            ]
+        },
+        "identifiers": {
+            "type": "object",
+            "default": {},
+            "title": "The identifiers Schema",
+            "required": [],
+            "properties": {
+                "bip44": {
+                    "type": "integer",
+                    "default": 0,
+                    "title": "The bip44 Schema",
+                    "examples": [
+                        60
+                    ]
+                },
+                "chainId": {
+                    "type": "integer",
+                    "default": 0,
+                    "title": "The chainId Schema",
+                    "examples": [
+                        1
+                    ]
+                }
+            },
+            "examples": [{
+                "bip44": 60,
+                "chainId": 1
+            }]
+        },
+        "links": {
+            "type": "object",
+            "default": {},
+            "title": "The links Schema",
+            "required": [],
+            "properties": {
+                "explorer": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The explorer Schema",
+                    "examples": [
+                        "https://etherscan.io/"
+                    ]
+                },
+                "research": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The research Schema",
+                    "examples": [
+                        "https://research.binance.com/en/projects/ethereum"
+                    ]
+                },
+                "website": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The website Schema",
+                    "examples": [
+                        "https://ethereum.org/"
+                    ]
+                },
+                "github": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The github Schema",
+                    "examples": [
+                        "https://github.com/ethereum"
+                    ]
+                },
+                "twitter": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The twitter Schema",
+                    "examples": [
+                        "https://twitter.com/ethereum"
+                    ]
+                },
+                "reddit": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The reddit Schema",
+                    "examples": [
+                        "https://reddit.com/r/ethereum"
+                    ]
+                },
+                "whitepaper": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The whitepaper Schema",
+                    "examples": [
+                        "https://github.com/ethereum/wiki/wiki/White-Paper"
+                    ]
+                }
+            },
+            "examples": [{
+                "explorer": "https://etherscan.io/",
+                "research": "https://research.binance.com/en/projects/ethereum",
+                "website": "https://ethereum.org/",
+                "github": "https://github.com/ethereum",
+                "twitter": "https://twitter.com/ethereum",
+                "reddit": "https://reddit.com/r/ethereum",
+                "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper"
+            }]
+        },
+        "logo": {
+            "type": "object",
+            "default": {},
+            "title": "The logo Schema",
+            "required": [],
+            "properties": {
+                "png": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The png Schema",
+                    "examples": [
+                        "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png"
+                    ]
+                },
+                "svg": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The svg Schema",
+                    "examples": [
+                        "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.svg"
+                    ]
+                }
+            },
+            "examples": [{
+                "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png",
+                "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.svg"
+            }]
+        },
+        "name": {
+            "type": "string",
+            "default": "",
+            "title": "The name Schema",
+            "examples": [
+                "Ethereum"
+            ]
+        },
+        "networkId": {
+            "type": "string",
+            "default": "",
+            "title": "The networkId Schema",
+            "examples": [
+                "ethereum"
+            ]
+        },
+        "regex": {
+            "type": "object",
+            "default": {},
+            "title": "The regex Schema",
+            "required": [],
+            "properties": {
+                "address": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The address Schema",
+                    "examples": [
+                        "^0x[a-fA-F0-9]{40}$"
+                    ]
+                },
+                "memo": {}
+            },
+            "examples": [{
+                "address": "^0x[a-fA-F0-9]{40}$"
+            }]
+        },
+        "spam": {
+            "type": "boolean",
+            "default": false,
+            "title": "The spam Schema",
+            "examples": [
+                false
+            ]
+        },
+        "symbol": {
+            "type": "string",
+            "default": "",
+            "title": "The symbol Schema",
+            "examples": [
+                "ETH"
+            ]
+        },
+        "tags": {
+            "type": "array",
+            "default": [],
+            "title": "The tags Schema",
+            "items": {},
+            "examples": [
+                []
+            ]
+        },
+        "type": {
+            "type": "string",
+            "default": "",
+            "title": "The type Schema",
+            "examples": [
+                "network"
+            ]
+        },
+        "verifications": {
+            "type": "array",
+            "default": [],
+            "title": "The verifications Schema",
+            "items": {},
+            "examples": [
+                []
+            ]
+        }
+    },
+    "examples": [{
+        "active": true,
+        "color": "#3c3c3d",
+        "decimals": 18,
+        "description": {
+            "en": "Open source platform to write and distribute decentralized applications."
+        },
+        "id": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
+        "identifiers": {
+            "bip44": 60,
+            "chainId": 1
+        },
+        "links": {
+            "explorer": "https://etherscan.io/",
+            "research": "https://research.binance.com/en/projects/ethereum",
+            "website": "https://ethereum.org/",
+            "github": "https://github.com/ethereum",
+            "twitter": "https://twitter.com/ethereum",
+            "reddit": "https://reddit.com/r/ethereum",
+            "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper"
+        },
+        "logo": {
+            "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png",
+            "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.svg"
+        },
+        "name": "Ethereum",
+        "networkId": "ethereum",
+        "regex": {
+            "address": "^0x[a-fA-F0-9]{40}$"
+        },
+        "spam": false,
+        "symbol": "ETH",
+        "tags": [],
+        "type": "network",
+        "verifications": []
+    }]
+}

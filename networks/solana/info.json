@@ -19,12 +19,8 @@
       "whitepaper": "https://github.com/solana-labs/whitepaper"
     },
     "logo": {
-      "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png"
-      },
-      "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg"
-      }
+      "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png",
+      "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg"
     },
     "name": "Solana",
     "networkId": "solana",

@@ -17,12 +17,8 @@
         "whitepaper": "https://bitcoin.org/bitcoin.pdf"
     },
     "logo": {
-        "png": {
-            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.png"
-        },
-        "svg": {
-            "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.svg"
-        }
+        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.png",
+        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.svg"
     },
     "name": "Bitcoin Testnet",
     "networkId": "bitcoin-testnet",

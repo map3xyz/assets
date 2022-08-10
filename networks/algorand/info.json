@@ -19,12 +19,8 @@
       "whitepaper": "https://www.algorand.com/resources/white-papers/"
     },
     "logo": {
-      "png": {
-        "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.png"
-      },
-      "svg": {
-          "url": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.svg"
-      }
+      "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.png",
+      "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/algorand/logo.svg"
     },
     "name": "Algorand",
     "networkId": "algorand",
