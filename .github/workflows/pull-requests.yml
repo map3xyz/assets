@@ -14,8 +14,8 @@ jobs:
         with:
           node-version: 16
       - name: Set up Assets CLI
-        run: npm install -g @map3xyz/assets-helper
+        run: npm install -g @map3xyz/assets-cli
       - name: Check out code
         uses: actions/checkout@v2
       - name: Validate Repo
-        run: assets-helper validate -r .
+        run: assets-cli validate -r .
