@@ -1,0 +1,45 @@
+{
+  "id": "dcc26c1e-05f2-4dea-b56e-749d2d866f3f",
+  "networkId": "fantom",
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A DAG-Based Smart-Contract Platform."
+  },
+  "links": {
+    "explorer": "https://ftmscan.com",
+    "research": "https://research.binance.com/en/projects/fantom",
+    "website": "https://fantom.foundation",
+    "discord": "https://discord.com/invite/zS4Ek4WByA/",
+    "twitter": "https://twitter.com/FantomFDN",
+    "telegram": "https://t.me/fantomfoundation",
+    "reddit": "https://reddit.com/r/FantomFoundation/"
+  },
+  "logo": {
+    "downloaded": true,
+    "input": {
+      "png": {
+        "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/fantom/info/logo.png"
+      }
+    },
+    "output": {
+      "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/fantom/logo.png"
+    }
+  },
+  "name": "Fantom",
+  "spam": false,
+  "symbol": "FTM",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "identifiers": null,
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  }
+}
