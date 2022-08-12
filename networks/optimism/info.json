@@ -6,13 +6,17 @@
     "en": "Optimism is a Layer 2 scaling solution for Ethereum."
   },
   "id": "37cc57ad-f417-4589-95ac-f4ea2e19a14c",
-  "identifiers": null,
+  "identifiers": {
+    "chainId": 10
+  },
   "links": {
     "explorer": "https://optimistic.etherscan.io",
     "research": "https://github.com/ethereum-optimism/optimism",
     "website": "https://optimism.io/"
   },
-  "logo": {},
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/optimism/logo.png"
+  },
   "name": "Optimistic Ethereum",
   "networkId": "optimism",
   "regex": {

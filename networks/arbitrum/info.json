@@ -6,7 +6,9 @@
     "en": "Arbitrum is a Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private"
   },
   "id": "b96abbae-90e3-4688-85c4-2013733f712e",
-  "identifiers": null,
+  "identifiers": {
+    "chainId": 42161
+  },
   "links": {
     "explorer": "https://arbiscan.io",
     "research": "https://coinmarketcap.com/alexandria/article/what-is-arbitrum",
