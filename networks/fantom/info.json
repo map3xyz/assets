@@ -6,7 +6,9 @@
     "en": "A DAG-Based Smart-Contract Platform."
   },
   "id": "fe5a7410-fd09-4e1f-99e8-ae5392ec23eb",
-  "identifiers": null,
+  "identifiers": {
+    "chainId": 250
+  },
   "links": {
     "explorer": "https://ftmscan.com",
     "research": "https://research.binance.com/en/projects/fantom",
