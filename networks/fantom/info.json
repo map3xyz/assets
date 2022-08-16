@@ -22,7 +22,7 @@
     "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/fantom/logo.png"
   },
   "name": "Fantom",
-  "networkId": "fantom",
+  "networkCode": "fantom",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

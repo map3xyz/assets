@@ -23,7 +23,7 @@
       "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.svg"
     },
     "name": "Tezos",
-    "networkId": "tezos",
+    "networkCode": "tezos",
     "regex": {
       "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$"
     },

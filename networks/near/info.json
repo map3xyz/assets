@@ -23,7 +23,7 @@
       "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/near/logo.svg"
     },
     "name": "NEAR Protocol",
-    "networkId": "near",
+    "networkCode": "near",
     "regex": {
       "address": "^(([a-z\\d]+[\\-_])*[a-z\\d]+\\.)*([a-z\\d]+[\\-_])*[a-z\\d]+$"
     },

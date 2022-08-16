@@ -24,7 +24,7 @@
       "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/binance/logo.svg"
     },
     "name": "BNB Chain",
-    "networkId": "binance",
+    "networkCode": "binance",
     "regex": {
       "address": "^(bnb1)[0-9a-z]{38}$",
       "memo": "^[0-9A-Za-z\\-_]{1,120}$"

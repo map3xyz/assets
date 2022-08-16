@@ -21,7 +21,7 @@
         "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.svg"
     },
     "name": "Bitcoin Testnet",
-    "networkId": "bitcoin-testnet",
+    "networkCode": "bitcoin-testnet",
     "regex": {
         "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$"
     },
