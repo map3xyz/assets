@@ -24,7 +24,7 @@
       "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.svg"
     },
     "name": "Polygon",
-    "networkId": "polygon",
+    "networkCode": "polygon",
     "regex": {
       "address": "^(0x)[0-9A-Fa-f]{40}$"
     },

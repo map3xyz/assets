@@ -23,7 +23,7 @@
       "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg"
     },
     "name": "Solana",
-    "networkId": "solana",
+    "networkCode": "solana",
     "regex": {
       "address": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
     },

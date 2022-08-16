@@ -14,7 +14,7 @@
         "links",
         "logo",
         "name",
-        "networkId",
+        "networkCode",
         "spam",
         "symbol",
         "tags",
@@ -109,10 +109,10 @@
                 "USD Coin"
             ]
         },
-        "networkId": {
+        "networkCode": {
             "type": "string",
             "default": "",
-            "title": "The networkId Schema",
+            "title": "The networkCode Schema",
             "examples": [
                 "ethereum"
             ]
@@ -188,7 +188,7 @@
             "png": "https://raw.githubusercontent.com/map3xyz/ethereum-tokenlist/master/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         "name": "USD Coin",
-        "networkId": "ethereum",
+        "networkCode": "ethereum",
         "spam": false,
         "symbol": "USDC",
         "tags": [
