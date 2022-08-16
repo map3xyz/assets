@@ -7,3 +7,6 @@
 [submodule "networks/avalanchec/assets/avalanchec-tokenlist"]
 	path = networks/avalanchec/assets/avalanchec-tokenlist
 	url = git@github.com:map3xyz/avalanchec-tokenlist.git
+[submodule "networks/arbitrum/assets/arbitrum-tokenlist"]
+	path = networks/arbitrum/assets/arbitrum-tokenlist
+	url = git@github.com:map3xyz/arbitrum-tokenlist.git
