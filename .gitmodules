@@ -4,3 +4,6 @@
 [submodule "networks/ethereum/assets/ethereum-tokenlist"]
 	path = networks/ethereum/assets/ethereum-tokenlist
 	url = git@github.com:map3xyz/ethereum-tokenlist.git
+[submodule "networks/avalanchec/assets/avalanchec-tokenlist"]
+	path = networks/avalanchec/assets/avalanchec-tokenlist
+	url = git@github.com:map3xyz/avalanchec-tokenlist.git
