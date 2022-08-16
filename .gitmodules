@@ -13,3 +13,6 @@
 [submodule "networks/optimism/assets/optimism-tokenlist"]
 	path = networks/optimism/assets/optimism-tokenlist
 	url = git@github.com:map3xyz/optimism-tokenlist.git
+[submodule "networks/fantom/assets/fantom-tokenlist"]
+	path = networks/fantom/assets/fantom-tokenlist
+	url = git@github.com:map3xyz/fantom-tokenlist.git
