@@ -10,3 +10,6 @@
 [submodule "networks/arbitrum/assets/arbitrum-tokenlist"]
 	path = networks/arbitrum/assets/arbitrum-tokenlist
 	url = git@github.com:map3xyz/arbitrum-tokenlist.git
+[submodule "networks/optimism/assets/optimism-tokenlist"]
+	path = networks/optimism/assets/optimism-tokenlist
+	url = git@github.com:map3xyz/optimism-tokenlist.git
