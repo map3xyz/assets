@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Avalanche is an open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. This is the C-Chain, the default smart contract blockchain on Avalanche that enables the creation of any Ethereum-compatible smart contracts."
+  },
+  "id": "e4cdefe2-8b49-4e58-85f3-4f302c5907f3",
+  "identifiers": {
+    "chainId": 43114
+  },
+  "links": {
+    "explorer": "https://explorer.avax.network",
+    "research": "https://research.binance.com/en/projects/avalanche",
+    "website": "http://avax.network",
+    "github": "https://github.com/ava-labs",
+    "whitepaper": "https://www.avalabs.org/whitepapers"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/avalanchec/logo.png"
+  },
+  "name": "Avalanche C-Chain",
+  "networkCode": "avalanchec",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "AVAX",
+  "tags": [
+    "defi"
+  ],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
