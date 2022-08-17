@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aurora provides Ethereum compatibility, NEAR Protocol scalability, and industry-first user experience through affordable transactions."
+  },
+  "id": "fa1406bf-f67d-481c-bdca-19b641ba8c58",
+  "identifiers": {
+    "chainId": 1313161554
+  },
+  "links": {
+    "explorer": "https://explorer.mainnet.aurora.dev/",
+    "website": "https://aurora.dev"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/aurora/info/logo.png"
+  },
+  "name": "Aurora",
+  "networkCode": "aurora",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
