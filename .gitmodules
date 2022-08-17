@@ -25,3 +25,6 @@
 [submodule "networks/classic/assets/classic-tokenlist"]
 	path = networks/classic/assets/classic-tokenlist
 	url = git@github.com:map3xyz/classic-tokenlist.git
+[submodule "networks/gochain/assets/gochain-tokenlist"]
+	path = networks/gochain/assets/gochain-tokenlist
+	url = git@github.com:map3xyz/gochain-tokenlist.git
