@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The first-ever USD stable blockchain and multi-chain staking token."
+  },
+  "id": "fedbd49b-2b67-4074-b35c-50fa76da3f27",
+  "identifiers": {
+    "chainId": 100
+  },
+  "links": {
+    "explorer": "https://blockscout.com/poa/xdai",
+    "research": "https://research.binance.com/en/projects/poa-network",
+    "website": "https://xdaichain.com",
+    "github": "https://github.com/xdaichain",
+    "twitter": "https://twitter.com/xdaichain",
+    "reddit": "https://reddit.com/r/POA",
+    "whitepaper": "https://www.xdaichain.com/for-validators/posdao-whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/info/logo.png"
+  },
+  "name": "Gnosis Chain",
+  "networkCode": "xdai",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "xDAI",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
