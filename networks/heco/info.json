@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "HECO is a decentralized and cost efficient public chain that Ethereum developers can easily get started with and smart contracts are seamlessly compatible."
+  },
+  "id": "a245c956-da09-4637-b517-0e0c8e5c6292",
+  "identifiers": {
+    "chainId": 128
+  },
+  "links": {
+    "explorer": "https://hecoinfo.com/",
+    "website": "https://www.hecochain.com/en-us/",
+    "twitter": "https://twitter.com/HECO_Chain",
+    "telegram": "https://t.me/Huobiecochainofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/heco/info/logo.png"
+  },
+  "name": "Huobi ECO Chain",
+  "networkCode": "heco",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "HT",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
