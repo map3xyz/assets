@@ -49,3 +49,6 @@
 [submodule "networks/smartchain/assets/smartchain-tokenlist"]
 	path = networks/smartchain/assets/smartchain-tokenlist
 	url = git@github.com:map3xyz/smartchain-tokenlist.git
+[submodule "networks/thundertoken/assets/thundertoken-tokenlist"]
+	path = networks/thundertoken/assets/thundertoken-tokenlist
+	url = git@github.com:map3xyz/thundertoken-tokenlist.git
