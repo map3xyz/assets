@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Celo is an open platform that makes financial tools accessible to anyone with a mobile phone"
+  },
+  "id": "0f2a2df8-d75e-4aa7-bbfc-3c0739aadcd0",
+  "identifiers": {
+    "chainId": 42220
+  },
+  "links": {
+    "explorer": "https://explorer.celo.org/",
+    "research": "https://docs.celo.org/",
+    "website": "https://celo.org/",
+    "github": "https://github.com/celo-org/celo-blockchain",
+    "twitter": "https://twitter.com/CeloOrg",
+    "whitepaper": "https://celo.org/papers"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/celo/logo.png"
+  },
+  "name": "Celo",
+  "networkCode": "celo",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "CELO",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
