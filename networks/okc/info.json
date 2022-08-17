@@ -1,0 +1,34 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OKC is a secure & programmable smart contracts platform for next-generation decentralized applications, backed by OKX, one of the largest crypto exchanges."
+  },
+  "id": "34bf6842-32f8-4a56-a5f6-3d93ed027455",
+  "identifiers": {
+    "chainId": 66
+  },
+  "links": {
+    "explorer": "https://www.oklink.com/en/okc/",
+    "research": "https://okc-docs.readthedocs.io/en/latest",
+    "website": "https://www.okx.com/okc",
+    "github": "https://github.com/okex/exchain",
+    "twitter": "https://twitter.com/OKCnetwork",
+    "discord": "https://discord.com/invite/2rynEUqJxP"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/okc/info/logo.png"
+  },
+  "name": "OKX Chain",
+  "networkCode": "okc",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "OKT",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
