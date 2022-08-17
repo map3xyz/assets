@@ -37,3 +37,6 @@
 [submodule "networks/meter/assets/meter-tokenlist"]
 	path = networks/meter/assets/meter-tokenlist
 	url = git@github.com:map3xyz/meter-tokenlist.git
+[submodule "networks/oasis/assets/oasis-tokenlist"]
+	path = networks/oasis/assets/oasis-tokenlist
+	url = git@github.com:map3xyz/oasis-tokenlist.git
