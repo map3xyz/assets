@@ -16,3 +16,6 @@
 [submodule "networks/fantom/assets/fantom-tokenlist"]
 	path = networks/fantom/assets/fantom-tokenlist
 	url = git@github.com:map3xyz/fantom-tokenlist.git
+[submodule "networks/celo/assets/celo-tokenlist"]
+	path = networks/celo/assets/celo-tokenlist
+	url = git@github.com:map3xyz/celo-tokenlist.git
