@@ -43,3 +43,6 @@
 [submodule "networks/okc/assets/okc-tokenlist"]
 	path = networks/okc/assets/okc-tokenlist
 	url = git@github.com:map3xyz/okc-tokenlist.git
+[submodule "networks/ronin/assets/ronin-tokenlist"]
+	path = networks/ronin/assets/ronin-tokenlist
+	url = git@github.com:map3xyz/ronin-tokenlist.git

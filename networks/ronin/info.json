@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ronin unlocks explosive growth for Blockchain gaming and collectible projects."
+  },
+  "id": "3014f345-2fe7-4061-a16e-55907f15f18d",
+  "identifiers": {
+    "chainId": 2020
+  },
+  "links": {
+    "explorer": "https://explorer.roninchain.com",
+    "website": "https://skymavis.com"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ronin/info/logo.png"
+  },
+  "name": "Ronin",
+  "networkCode": "ronin",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "RON",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
