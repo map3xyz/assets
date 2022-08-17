@@ -52,3 +52,6 @@
 [submodule "networks/thundertoken/assets/thundertoken-tokenlist"]
 	path = networks/thundertoken/assets/thundertoken-tokenlist
 	url = git@github.com:map3xyz/thundertoken-tokenlist.git
+[submodule "networks/tomochain/assets/tomochain-tokenlist"]
+	path = networks/tomochain/assets/tomochain-tokenlist
+	url = git@github.com:map3xyz/tomochain-tokenlist.git
