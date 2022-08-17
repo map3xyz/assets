@@ -1,0 +1,40 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Meter is a high performance Ethereum compatible infrastructure that allows smart contracts to scale and travel through blockchain networks. Transactions on Meter is front running resistant with stable and low gas cost paid in metastable gas token MTR"
+  },
+  "id": "2a122e35-1717-43ec-81b8-94aa6f6d3031",
+  "identifiers": {
+    "chainId": 82
+  },
+  "links": {
+    "explorer": "https://scan.meter.io/",
+    "research": "https://docs.meter.io/",
+    "website": "https://meter.io/",
+    "github": "https://github.com/meterio",
+    "twitter": "https://twitter.com/Meter_IO",
+    "whitepaper": "https://docsend.com/view/6gebiph",
+    "telegram": "https://t.me/Meter_IO",
+    "reddit": "https://reddit.com/r/Meter_io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/meter-governance/",
+    "coingecko": "https://coingecko.com/en/coins/meter-governance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/meter/info/logo.png"
+  },
+  "name": "Meter",
+  "networkCode": "meter",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "MTRG",
+  "tags": [
+    "defi"
+  ],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
