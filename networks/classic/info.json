@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract functionality.It is a continuation of the original Ethereum blockchain."
+  },
+  "id": "ed6473cd-a421-42a3-a94f-6de08ae977fc",
+  "identifiers": {
+    "chainId": 61
+  },
+  "links": {
+    "explorer": "https://blockscout.com/etc/mainnet/",
+    "research": "https://research.binance.com/en/projects/ethereum-classic",
+    "website": "https://ethereumclassic.org/",
+    "github": "https://github.com/ethereumclassic/",
+    "twitter": "https://twitter.com/eth_classic",
+    "reddit": "https://reddit.com/r/EthereumClassic",
+    "whitepaper": "https://whitepaperdatabase.com/ethereum-classic-etc-whitepaper/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/classic/info/logo.png"
+  },
+  "name": "Ethereum Classic",
+  "networkCode": "classic",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "ETC",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
