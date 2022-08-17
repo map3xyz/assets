@@ -37,3 +37,6 @@
 [submodule "networks/meter/assets/meter-tokenlist"]
 	path = networks/meter/assets/meter-tokenlist
 	url = git@github.com:map3xyz/meter-tokenlist.git
+[submodule "networks/okc/assets/okc-tokenlist"]
+	path = networks/okc/assets/okc-tokenlist
+	url = git@github.com:map3xyz/okc-tokenlist.git
