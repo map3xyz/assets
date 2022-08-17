@@ -34,3 +34,6 @@
 [submodule "networks/kcc/assets/kcc-tokenlist"]
 	path = networks/kcc/assets/kcc-tokenlist
 	url = git@github.com:map3xyz/kcc-tokenlist.git
+[submodule "networks/meter/assets/meter-tokenlist"]
+	path = networks/meter/assets/meter-tokenlist
+	url = git@github.com:map3xyz/meter-tokenlist.git
