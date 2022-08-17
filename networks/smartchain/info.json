@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain."
+  },
+  "id": "bfe77db4-78d8-4014-8559-67986c282d78",
+  "identifiers": {
+    "chainId": 56
+  },
+  "links": {
+    "explorer": "https://bscscan.com/",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "website": "https://www.bnbchain.world/en/smartChain",
+    "github": "https://github.com/binance-chain/",
+    "twitter": "https://twitter.com/BNBCHAIN",
+    "reddit": "https://reddit.com/r/BinanceExchange",
+    "whitepaper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/info/logo.png"
+  },
+  "name": "BNB Smart Chain",
+  "networkCode": "smartchain",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [
+    "staking-native"
+  ],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
