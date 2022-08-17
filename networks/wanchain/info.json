@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wanchain aims to build a super financial market of digital assets. It is an infrastructure connecting different digital assets with Private Cross-Chain Smart Contracts."
+  },
+  "id": "439fb9eb-1530-471a-8c3d-2f6294f50b1b",
+  "identifiers": {
+    "chainId": 888
+  },
+  "links": {
+    "explorer": "https://www.wanscan.org",
+    "research": "https://research.binance.com/en/projects/wanchain",
+    "website": "https://wanchain.org",
+    "github": "https://github.com/wanchain",
+    "twitter": "https://twitter.com/wanchain_org",
+    "reddit": "https://reddit.com/r/wanchain",
+    "whitepaper": "https://www.explorewanchain.org"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/wanchain/info/logo.png"
+  },
+  "name": "Wanchain",
+  "networkCode": "wanchain",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "WAN",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}

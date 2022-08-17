@@ -55,3 +55,6 @@
 [submodule "networks/tomochain/assets/tomochain-tokenlist"]
 	path = networks/tomochain/assets/tomochain-tokenlist
 	url = git@github.com:map3xyz/tomochain-tokenlist.git
+[submodule "networks/wanchain/assets/wanchain-tokenlist"]
+	path = networks/wanchain/assets/wanchain-tokenlist
+	url = git@github.com:map3xyz/wanchain-tokenlist.git
