@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ThunderCore is EVM-compatible and claims to have a throughput of 4,000+ TPS, sub-second confirmation times, and low gas costs, with a view towards making DApps easy to deploy and scale."
+  },
+  "id": "6e25f0a7-7022-4bbc-9c26-baee70d01cda",
+  "identifiers": {
+    "chainId": 108
+  },
+  "links": {
+    "explorer": "https://scan.thundercore.com",
+    "research": "https://research.binance.com/en/projects/thundercore",
+    "website": "https://thundercore.com",
+    "github": "https://github.com/thundertoken",
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "reddit": "https://reddit.com/r/thundertoken",
+    "whitepaper": "https://docs.thundercore.com/thunder-whitepaper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/thundertoken/info/logo.png"
+  },
+  "name": "ThunderCore (TT)",
+  "networkCode": "thundertoken",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "TT",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
