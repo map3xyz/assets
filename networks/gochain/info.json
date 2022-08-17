@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GoChain is a scalable, smart contract blockchain that is fast, secure and green. It enables developers to lift and shift from Ethereum to GoChain for 100x increased performance. "
+  },
+  "id": "86a359b3-0313-4412-aff5-f1e6aad15471",
+  "identifiers": {
+    "chainId": 60
+  },
+  "links": {
+    "explorer": "https://explorer.gochain.io/home",
+    "research": "https://research.binance.com/en/projects/gochain",
+    "website": "https://gochain.io",
+    "github": "https://github.com/gochain",
+    "twitter": "https://twitter.com/go_chain",
+    "reddit": "https://reddit.com/r/OfficialGoChain",
+    "whitepaper": "https://gochain.foundation/gochain-whitepaper-v2.1.2.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/gochain/info/logo.png"
+  },
+  "name": "GoChain",
+  "networkCode": "gochain",
+  "regex": {
+    "address": "^0x[a-fA-F0-9]{40}$"
+  },
+  "spam": false,
+  "symbol": "GO",
+  "tags": [],
+  "type": "network",
+  "verifications": [],
+  "version": "0.0.1"
+}
