@@ -46,3 +46,6 @@
 [submodule "networks/ronin/assets/ronin-tokenlist"]
 	path = networks/ronin/assets/ronin-tokenlist
 	url = git@github.com:map3xyz/ronin-tokenlist.git
+[submodule "networks/smartchain/assets/smartchain-tokenlist"]
+	path = networks/smartchain/assets/smartchain-tokenlist
+	url = git@github.com:map3xyz/smartchain-tokenlist.git
