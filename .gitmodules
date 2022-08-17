@@ -58,3 +58,6 @@
 [submodule "networks/wanchain/assets/wanchain-tokenlist"]
 	path = networks/wanchain/assets/wanchain-tokenlist
 	url = git@github.com:map3xyz/wanchain-tokenlist.git
+[submodule "networks/xdai/assets/xdai-tokenlist"]
+	path = networks/xdai/assets/xdai-tokenlist
+	url = git@github.com:map3xyz/xdai-tokenlist.git
