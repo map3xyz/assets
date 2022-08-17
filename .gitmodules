@@ -22,3 +22,6 @@
 [submodule "networks/aurora/assets/aurora-tokenlist"]
 	path = networks/aurora/assets/aurora-tokenlist
 	url = git@github.com:map3xyz/aurora-tokenlist.git
+[submodule "networks/classic/assets/classic-tokenlist"]
+	path = networks/classic/assets/classic-tokenlist
+	url = git@github.com:map3xyz/classic-tokenlist.git
