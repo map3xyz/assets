@@ -31,3 +31,6 @@
 [submodule "networks/heco/assets/heco-tokenlist"]
 	path = networks/heco/assets/heco-tokenlist
 	url = git@github.com:map3xyz/heco-tokenlist.git
+[submodule "networks/kcc/assets/kcc-tokenlist"]
+	path = networks/kcc/assets/kcc-tokenlist
+	url = git@github.com:map3xyz/kcc-tokenlist.git
