@@ -28,3 +28,6 @@
 [submodule "networks/gochain/assets/gochain-tokenlist"]
 	path = networks/gochain/assets/gochain-tokenlist
 	url = git@github.com:map3xyz/gochain-tokenlist.git
+[submodule "networks/heco/assets/heco-tokenlist"]
+	path = networks/heco/assets/heco-tokenlist
+	url = git@github.com:map3xyz/heco-tokenlist.git
