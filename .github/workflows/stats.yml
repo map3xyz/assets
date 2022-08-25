@@ -1,0 +1,16 @@
+name: Compile Repo Stats Daily
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  compile_stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Set up Assets CLI
+        run: npm install -g @map3xyz/assets-cli
+      - name: Compile Repo Stats
+        run: assets-cli compile-stats
