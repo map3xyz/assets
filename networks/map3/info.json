@@ -1,0 +1,12 @@
+{
+  "networkCode": "map3",
+  "type": "network",
+  "name": "map",
+  "symbol": "map3",
+  "decimals": "8",
+  "description": {},
+  "identifiers": {},
+  "links": {},
+  "regex": {},
+  "tags": []
+}
