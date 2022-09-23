@@ -1,0 +1,14 @@
+{
+  "networkCode": "todd",
+  "type": "network",
+  "name": "todd",
+  "symbol": "todd",
+  "decimals": "8",
+  "description": {},
+  "identifiers": {
+    "chainId": "99"
+  },
+  "links": {},
+  "regex": {},
+  "tags": []
+}
