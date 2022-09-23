@@ -1,0 +1,15 @@
+{
+  "networkCode": "map3",
+  "type": "network",
+  "name": "map",
+  "symbol": "MAP3",
+  "decimals": "8",
+  "color": "#438e2e",
+  "description": {},
+  "identifiers": {
+    "chainId": "99"
+  },
+  "links": {},
+  "regex": {},
+  "tags": []
+}
