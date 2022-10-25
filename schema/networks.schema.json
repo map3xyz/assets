@@ -85,11 +85,20 @@
                     "examples": [
                         1
                     ]
+                },
+                "coinmarketcap": {
+                    "type": "integer",
+                    "default": 0,
+                    "title": "The unique CoinMarketCap id",
+                    "examples": [
+                        1
+                    ]
                 }
             },
             "examples": [{
                 "bip44": 60,
-                "chainId": 1
+                "chainId": 1,
+                "coinmarketcap": 1
             }]
         },
         "links": {

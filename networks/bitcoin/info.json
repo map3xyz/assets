@@ -7,7 +7,8 @@
     },
     "id": "531924d7-9cd2-4c2b-a56f-6d2bf1c05566",
     "identifiers": {
-        "bip44": 0
+        "bip44": 0,
+        "coinmarketcap": 1
     },
     "links": {
         "explorer": "https://blockchain.info",

@@ -72,6 +72,25 @@
                 "57f5c072-b121-4536-b181-e7d40a20208f"
             ]
         },
+        "identifiers": {
+            "type": "object",
+            "default": {},
+            "title": "The identifiers Schema",
+            "required": [],
+            "properties": {
+                "coinmarketcap": {
+                    "type": "integer",
+                    "default": 0,
+                    "title": "The unique CoinMarketCap id",
+                    "examples": [
+                        1
+                    ]
+                }
+            },
+            "examples": [{
+                "coinmarketcap": 1
+            }]
+        },
         "links": {
             "type": "null",
             "default": null,
