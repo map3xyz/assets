@@ -8,7 +8,8 @@
     "id": "da5eb9b1-7e2b-4976-a260-07a3eab89618",
     "identifiers": {
       "bip44": 60,
-      "chainId": 1
+      "chainId": 1,
+      "coinmarketcap": 1027
     },
     "links": {
       "explorer": "https://etherscan.io/",
