@@ -7,7 +7,8 @@
   },
   "id": "fa1406bf-f67d-481c-bdca-19b641ba8c58",
   "identifiers": {
-    "chainId": 1313161554
+    "chainId": 1313161554,
+    "coinmarketcap": 14803
   },
   "links": {
     "explorer": "https://explorer.mainnet.aurora.dev/",

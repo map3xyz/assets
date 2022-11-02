@@ -7,7 +7,8 @@
     },
     "id": "31f11761-8e2a-4001-94e5-3f5c3099773a",
     "identifiers": {
-      "bip44": 397    
+      "bip44": 397,
+      "coinmarketcap": 6535    
     },
     "links": {
       "explorer": "https://explorer.near.org/",

@@ -7,7 +7,8 @@
     },
     "id": "410377a6-4168-49c2-8a80-536811395fb2",
     "identifiers": {
-      "bip44": 501
+      "bip44": 501,
+      "coinmarketcap": 5426
     },
     "links": {
       "explorer": "https://explorer.solana.com/",

@@ -7,7 +7,8 @@
   },
   "id": "84e43282-ad50-44db-a17b-92e80ce317b0",
   "identifiers": {
-    "chainId": 26863
+    "chainId": 26863,
+    "coinmarketcap": 7653
   },
   "links": {
     "explorer": "https://www.oasisscan.com/",

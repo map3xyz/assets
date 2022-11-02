@@ -7,7 +7,8 @@
   },
   "id": "37cc57ad-f417-4589-95ac-f4ea2e19a14c",
   "identifiers": {
-    "chainId": 10
+    "chainId": 10,
+    "coinmarketcap": 11840
   },
   "links": {
     "explorer": "https://optimistic.etherscan.io",

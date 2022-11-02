@@ -7,7 +7,8 @@
   },
   "id": "fe5a7410-fd09-4e1f-99e8-ae5392ec23eb",
   "identifiers": {
-    "chainId": 250
+    "chainId": 250,
+    "coinmarketcap": 3513
   },
   "links": {
     "explorer": "https://ftmscan.com",
