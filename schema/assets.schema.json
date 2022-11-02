@@ -53,16 +53,12 @@
             "type": "object",
             "default": null,
             "title": "The config Schema",
-            "patternProperties": {
-                "^N_confirmations": { "type": "number" },
-                "^S_product": { "type": "string" },
-                "^B_freeDeposits": { "type": "boolean" }
-            },            
             "examples": {
-                "N_confirmations": 5,
-                "S_product": "exchange",
-                "B_freeDeposits": true
-            }
+                "confirmations": {"type": "number", "value": 5 },
+                "product": {"type": "string", "value": "exchange" },
+                "freeDeposits": {"type": "boolean", "value": true }
+            }, 
+            "additionalProperties": true
         },
         "decimals": {
             "type": "integer",
