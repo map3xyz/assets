@@ -8,6 +8,7 @@
         "active",
         "address",
         "color",
+        "config",
         "decimals",
         "description",
         "id",
@@ -47,6 +48,21 @@
                 null,
                 "#FF5733"
             ]
+        },
+        "config": {
+            "type": "object",
+            "default": null,
+            "title": "The config Schema",
+            "patternProperties": {
+                "^N_confirmations": { "type": "number" },
+                "^S_product": { "type": "string" },
+                "^B_freeDeposits": { "type": "boolean" }
+            },            
+            "examples": {
+                "N_confirmations": 5,
+                "S_product": "exchange",
+                "B_freeDeposits": true
+            }
         },
         "decimals": {
             "type": "integer",
@@ -199,6 +215,7 @@
         "active": true,
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "color": null,
+        "config": null,
         "decimals": 6,
         "description": null,
         "id": "57f5c072-b121-4536-b181-e7d40a20208f",
