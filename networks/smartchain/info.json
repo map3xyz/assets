@@ -7,7 +7,8 @@
   },
   "id": "bfe77db4-78d8-4014-8559-67986c282d78",
   "identifiers": {
-    "chainId": 56
+    "chainId": 56,
+    "coinmarketcap": 1839
   },
   "links": {
     "explorer": "https://bscscan.com/",
@@ -21,7 +22,7 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/info/logo.png"
   },
-  "name": "BNB Smart Chain",
+  "name": "BNB Chain",
   "networkCode": "smartchain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"

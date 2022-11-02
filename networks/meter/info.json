@@ -7,7 +7,8 @@
   },
   "id": "2a122e35-1717-43ec-81b8-94aa6f6d3031",
   "identifiers": {
-    "chainId": 82
+    "chainId": 82,
+    "coinmarketcap": 5919
   },
   "links": {
     "explorer": "https://scan.meter.io/",

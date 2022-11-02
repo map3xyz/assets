@@ -7,7 +7,8 @@
   },
   "id": "44991bb4-a407-4a87-8a72-05d56079fb0f",
   "identifiers": {
-    "chainId": 43114
+    "chainId": 43114,
+    "coinmarketcap": 5805
   },
   "links": {
     "explorer": "https://explorer.avax.network",

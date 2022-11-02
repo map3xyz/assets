@@ -7,7 +7,8 @@
     },
     "id": "4978a57a-f918-4dc4-a5e0-c331b6733ac9",
     "identifiers": {
-      "bip44": 1729
+      "bip44": 1729,
+      "coinmarketcap": 2011
     },
     "links": {
       "explorer": "https://tezos.id",

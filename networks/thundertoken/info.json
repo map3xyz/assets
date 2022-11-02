@@ -7,7 +7,8 @@
   },
   "id": "6e25f0a7-7022-4bbc-9c26-baee70d01cda",
   "identifiers": {
-    "chainId": 108
+    "chainId": 108,
+    "coinmarketcap": 2570
   },
   "links": {
     "explorer": "https://scan.thundercore.com",

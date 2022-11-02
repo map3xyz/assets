@@ -7,7 +7,8 @@
   },
   "id": "fedbd49b-2b67-4074-b35c-50fa76da3f27",
   "identifiers": {
-    "chainId": 100
+    "chainId": 100,
+    "coinmarketcap": 5601
   },
   "links": {
     "explorer": "https://blockscout.com/poa/xdai",

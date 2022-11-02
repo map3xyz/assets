@@ -7,7 +7,8 @@
   },
   "id": "d23dc62f-1cab-469e-b1ed-25d2d6db9c3f",
   "identifiers": {
-    "chainId": 321
+    "chainId": 321,
+    "coinmarketcap": 2087
   },
   "links": {
     "explorer": "https://explorer.kcc.io/",

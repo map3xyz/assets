@@ -7,7 +7,8 @@
     },
     "id": "9c5cf3fd-3dca-4051-9bcc-9fd48414382b",
     "identifiers": {
-      "bip44": 283
+      "bip44": 283,
+      "coinmarketcap": 4030
     },
     "links": {
       "explorer": "https://algoexplorer.io/",

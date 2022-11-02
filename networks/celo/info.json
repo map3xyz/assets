@@ -7,7 +7,8 @@
   },
   "id": "8b108f32-5617-4bd8-a530-3e56694bfb10",
   "identifiers": {
-    "chainId": 42220
+    "chainId": 42220,
+    "coinmarketcap": 5567
   },
   "links": {
     "explorer": "https://explorer.celo.org/",

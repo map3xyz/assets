@@ -7,7 +7,8 @@
   },
   "id": "ed6473cd-a421-42a3-a94f-6de08ae977fc",
   "identifiers": {
-    "chainId": 61
+    "chainId": 61,
+    "coinmarketcap": 1321
   },
   "links": {
     "explorer": "https://blockscout.com/etc/mainnet/",
