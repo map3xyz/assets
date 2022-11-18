@@ -20,7 +20,7 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/avalanchec/logo.png"
   },
-  "name": "Avalanche C-Chain",
+  "name": "Ethereum (Avalanche C-chain)",
   "networkCode": "avalanchec",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
