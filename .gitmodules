@@ -61,3 +61,6 @@
 [submodule "networks/xdai/assets/xdai-tokenlist"]
 	path = networks/xdai/assets/xdai-tokenlist
 	url = git@github.com:map3xyz/xdai-tokenlist.git
+[submodule "networks/goerli/assets/goerli-tokenlist"]
+	path = networks/goerli/assets/goerli-tokenlist
+	url = git@github.com:map3xyz/goerli-tokenlist.git
