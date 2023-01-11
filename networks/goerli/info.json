@@ -24,7 +24,7 @@
       "address": "^0x[a-fA-F0-9]{40}$"
     },
     "spam": false,
-    "symbol": "GoerliETH",
+    "symbol": "GOR",
     "tags": [],
     "type": "network",
     "verifications": []
