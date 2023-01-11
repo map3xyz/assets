@@ -18,7 +18,7 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/optimism/logo.png"
   },
-  "name": "Optimistic Ethereum",
+  "name": "Ethereum (Optimism)",
   "networkCode": "optimism",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"

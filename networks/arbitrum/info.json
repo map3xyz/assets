@@ -17,7 +17,7 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/arbitrum/logo.png"
   },
-  "name": "Arbitrum",
+  "name": "Ethereum (Arbitrum)",
   "networkCode": "arbitrum",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
