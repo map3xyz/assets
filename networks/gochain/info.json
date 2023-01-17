@@ -22,8 +22,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/gochain/info/logo.png"
   },
-  "name": "GoChain",
+  "name": "Go",
   "networkCode": "gochain",
+  "networkName": "Go Chain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

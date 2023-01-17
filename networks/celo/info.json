@@ -23,6 +23,7 @@
   },
   "name": "Celo",
   "networkCode": "celo",
+  "networkName": "Celo Network",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

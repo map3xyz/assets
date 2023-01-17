@@ -22,8 +22,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/wanchain/info/logo.png"
   },
-  "name": "Wanchain",
+  "name": "Wan",
   "networkCode": "wanchain",
+  "networkName": "Wan Chain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

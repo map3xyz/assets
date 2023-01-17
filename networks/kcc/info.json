@@ -23,8 +23,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/kcc/info/logo.png"
   },
-  "name": "KuCoin Community Chain",
+  "name": "Share",
   "networkCode": "kcc",
+  "networkName": "KuCoin Community Chain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

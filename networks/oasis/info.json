@@ -23,8 +23,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/oasis/info/logo.png"
   },
-  "name": "Oasis Network",
+  "name": "Oasis",
   "networkCode": "oasis",
+  "networkName": "Oasis Network",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

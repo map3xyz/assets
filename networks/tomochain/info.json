@@ -21,8 +21,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tomochain/info/logo.png"
   },
-  "name": "TomoChain",
+  "name": "Tomo",
   "networkCode": "tomochain",
+  "networkName": "Tomo Chain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

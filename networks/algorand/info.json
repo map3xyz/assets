@@ -25,6 +25,7 @@
     },
     "name": "Algorand",
     "networkCode": "algorand",
+    "networkName": "Algorand",
     "regex": {
       "address": "^[A-Z0-9]{58,58}$"
     },

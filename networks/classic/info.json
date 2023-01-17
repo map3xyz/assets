@@ -22,8 +22,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/classic/info/logo.png"
   },
-  "name": "Ethereum Classic",
+  "name": "Ether Classic",
   "networkCode": "classic",
+  "networkName": "Ethereum Classic Network",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },
