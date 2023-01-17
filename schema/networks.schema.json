@@ -16,6 +16,7 @@
         "logo",
         "name",
         "networkCode",
+        "networkName",
         "regex",
         "spam",
         "symbol",
@@ -230,6 +231,14 @@
                 "ethereum"
             ]
         },
+        "networkName": {
+            "type": "string",
+            "default": "",
+            "title": "The networkName Schema",
+            "examples": [
+                "Ethereum Network"
+            ]
+        },
         "regex": {
             "type": "object",
             "default": {},
@@ -319,8 +328,9 @@
             "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png",
             "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.svg"
         },
-        "name": "Ethereum",
+        "name": "Ether",
         "networkCode": "ethereum",
+        "networkName": "Ethereum Network",
         "regex": {
             "address": "^0x[a-fA-F0-9]{40}$"
         },
