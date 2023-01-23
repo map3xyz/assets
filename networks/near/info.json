@@ -11,7 +11,7 @@
       "coinmarketcap": 6535    
     },
     "links": {
-      "explorer": "https://explorer.near.org/",
+      "explorer": "https://explorer.near.org",
       "research": "https://research.binance.com/en/projects/near-protocol",
       "website": "https://near.org",
       "github": "https://github.com/nearprotocol/nearcore",

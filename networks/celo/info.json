@@ -11,7 +11,7 @@
     "coinmarketcap": 5567
   },
   "links": {
-    "explorer": "https://explorer.celo.org/",
+    "explorer": "https://explorer.celo.org",
     "research": "https://docs.celo.org/",
     "website": "https://celo.org/",
     "github": "https://github.com/celo-org/celo-blockchain",

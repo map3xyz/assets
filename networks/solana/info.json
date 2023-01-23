@@ -11,7 +11,7 @@
       "coinmarketcap": 5426
     },
     "links": {
-      "explorer": "https://explorer.solana.com/",
+      "explorer": "https://explorer.solana.com",
       "research": "https://research.binance.com/en/projects/solana",
       "website": "https://solana.com/",
       "github": "https://github.com/solana-labs",
