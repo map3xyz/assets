@@ -11,7 +11,7 @@
       "chainId": 5
     },
     "links": {
-      "explorer": "https://goerli.etherscan.io/",
+      "explorer": "https://goerli.etherscan.io",
       "website": "https://goerli.net/"
     },
     "logo": {
