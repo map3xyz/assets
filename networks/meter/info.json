@@ -27,6 +27,7 @@
   },
   "name": "Meter",
   "networkCode": "meter",
+  "networkName": "Meter Network",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

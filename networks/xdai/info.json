@@ -22,8 +22,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/info/logo.png"
   },
-  "name": "DAI (Gnosis Chain)",
+  "name": "DAI",
   "networkCode": "xdai",
+  "networkName": "Gnosis Chain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

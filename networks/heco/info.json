@@ -18,8 +18,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/heco/info/logo.png"
   },
-  "name": "Huobi ECO Chain",
+  "name": "Eco",
   "networkCode": "heco",
+  "networkName": "Huobi ECO Chain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

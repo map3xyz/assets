@@ -20,8 +20,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/okc/info/logo.png"
   },
-  "name": "OKX Chain",
+  "name": "OKX Token",
   "networkCode": "okc",
+  "networkName": "OKX Chain",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

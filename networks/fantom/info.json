@@ -24,6 +24,7 @@
   },
   "name": "Fantom",
   "networkCode": "fantom",
+  "networkName": "Fantom Network",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

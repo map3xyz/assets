@@ -17,8 +17,9 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/aurora/info/logo.png"
   },
-  "name": "Ethereum (Aurora)",
+  "name": "Ether",
   "networkCode": "aurora",
+  "networkName": "Aurora Network",
   "regex": {
     "address": "^0x[a-fA-F0-9]{40}$"
   },

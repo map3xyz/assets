@@ -25,6 +25,7 @@
     },
     "name": "Bitcoin",
     "networkCode": "bitcoin",
+    "networkName": "Bitcoin Network",
     "regex": {
         "address": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bc1)[0-9A-Za-z]{39,59}$"
     },
