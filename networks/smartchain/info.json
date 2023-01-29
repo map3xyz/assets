@@ -22,7 +22,7 @@
   "logo": {
     "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/info/logo.png"
   },
-  "name": "BNB",
+  "name": "Binance Coin",
   "networkCode": "smartchain",
   "networkName": "BNB Chain",
   "regex": {
