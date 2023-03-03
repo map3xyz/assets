@@ -1,0 +1,37 @@
+{
+    "active": true,
+    "color": "#000000",
+    "decimals": 4,
+    "description": {
+        "en": "EOS is a cryptocurrency token and blockchain that operates as a smart contract platform for the deployment of decentralized applications and decentralized autonomous corporations."
+    },
+    "id": "0edaa6c9-2fb7-43bf-a3bb-c5301116ddcf",
+    "identifiers": {
+        "bip44": 194,
+        "coinmarketcap": 1765
+    },
+    "links": {
+        "explorer": "https://bloks.io",
+        "github": "https://github.com/eosio",
+        "reddit": "https://reddit.com/r/EOS",
+        "research": "https://research.binance.com/en/projects/eos",
+        "twitter": "https://twitter.com/block_one_",
+        "website": "https://github.com/eosio",
+        "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
+    },
+    "logo": {
+        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/eos/logo.png",
+        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/eos/logo.svg"
+    },
+    "name": "EOS",
+    "networkCode": "eos",
+    "networkName": "EOS Network",
+    "regex": {
+        "address": "^[1-5a-z\\\\.]{1,12}$"
+    },
+    "spam": false,
+    "symbol": "EOS",
+    "tags": [],
+    "type": "network",
+    "verifications": []
+}
