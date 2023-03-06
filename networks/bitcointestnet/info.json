@@ -17,16 +17,17 @@
         "whitepaper": "https://bitcoin.org/bitcoin.pdf"
     },
     "logo": {
-        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.png",
-        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoin/testnets/testnet/logo.svg"
+        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcointestnet/logo.png",
+        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcointestnet/logo.svg"
     },
-    "name": "Bitcoin Testnet",
-    "networkCode": "bitcoin-testnet",
+    "name": "Testnet Bitcoin",
+    "networkCode": "bitcointestnet",
+    "networkName": "Bitcoin Testnet",
     "regex": {
         "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$"
     },
     "spam": false,
-    "symbol": "BTC-testnet",
+    "symbol": "BTCT",
     "tags": [],
     "type": "network",
     "verifications": []
