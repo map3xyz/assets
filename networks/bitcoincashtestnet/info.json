@@ -1,0 +1,37 @@
+{
+    "active": true,
+    "color": "#EE8C28",
+    "decimals": 8,
+    "description": {
+        "en": "[Testnet] Bitcoin Cash is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC)."
+    },
+    "id": "ea8369d9-d249-4e29-96d4-de3c54f8ba9c",
+    "identifiers": {
+        "bip44": 145,
+        "coinmarketcap": 1831
+    },
+    "links": {
+        "explorer": "https://blockchair.com/bitcoin-cash",
+        "github": "https://github.com/bitcoincashorg",
+        "reddit": "https://reddit.com/r/Bitcoincash",
+        "research": "https://research.binance.com/en/projects/bitcoin-cash",
+        "twitter": "https://twitter.com/BITCOlNCASH",
+        "website": "https://bitcoincash.org",
+        "whitepaper": "https://www.bitcoincash.org/bitcoin.pdf"
+    },
+    "logo": {
+        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoincash/logo.png",
+        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoincash/logo.svg"
+    },
+    "name": "Testnet Bitcoin Cash",
+    "networkCode": "bitcoincashtestnet",
+    "networkName": "Bitcoin Cash Testnet",
+    "regex": {
+        "address": "^([13][a-km-zA-HJ-NP-Z1-9]{25,34})|^((bitcoincash:)?(q|p)[a-z0-9]{41})|^((BITCOINCASH:)?(Q|P)[A-Z0-9]{41})$"
+    },
+    "spam": false,
+    "symbol": "TBCH",
+    "tags": [],
+    "type": "network",
+    "verifications": []
+}
