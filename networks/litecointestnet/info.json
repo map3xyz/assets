@@ -1,0 +1,37 @@
+{
+    "active": true,
+    "color": "#345D9D",
+    "decimals": 8,
+    "description": {
+        "en": "[Testnet] Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world."
+    },
+    "id": "405819f8-fd2a-4852-b7f9-5ec597c7a79a",
+    "identifiers": {
+        "bip44": 2,
+        "coinmarketcap": 2
+    },
+    "links": {
+        "explorer": "https://blockchair.com/litecoin",
+        "github": "https://github.com/litecoin-project/litecoin",
+        "reddit": "https://reddit.com/r/litecoin",
+        "research": "https://research.binance.com/en/projects/litecoin",
+        "twitter": "https://twitter.com/LitecoinProject",
+        "website": "https://litecoin.org",
+        "whitepaper": "https://www.allcryptowhitepapers.com/litecoin-whitepaper"
+    },
+    "logo": {
+        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/litecoin/logo.png",
+        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/litecoin/logo.svg"
+    },
+    "name": "Litecoin Testnet",
+    "networkCode": "litecointestnet",
+    "networkName": "Litecoin Testnet",
+    "regex": {
+        "address": "^[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}$"
+    },
+    "spam": false,
+    "symbol": "TLTC",
+    "tags": [],
+    "type": "network",
+    "verifications": []
+}
