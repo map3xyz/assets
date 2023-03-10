@@ -27,7 +27,7 @@
     "networkCode": "litecoin",
     "networkName": "Litecoin Network",
     "regex": {
-        "address": "^[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}$"
+        "address": "^([LM3][a-km-zA-HJ-NP-Z1-9]{25,34}|ltc1[a-z0-9]{39,59})$"
     },
     "spam": false,
     "symbol": "LTC",
