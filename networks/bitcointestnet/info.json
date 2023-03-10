@@ -24,7 +24,7 @@
     "networkCode": "bitcointestnet",
     "networkName": "Bitcoin Testnet",
     "regex": {
-        "address": "^([13][a-km-zA-HJ-NP-Z1-9]{25,34})|^((bitcoincash:)?(q|p)[a-z0-9]{41})|^((BITCOINCASH:)?(Q|P)[A-Z0-9]{41})|^((bchtest:)?(q|p)[a-z0-9]{41})|^((BCHTEST:)?(Q|P)[A-Z0-9]{41})$"
+        "address": "^(tb(0([ac-hj-np-z02-9]{39}|[ac-hj-np-z02-9]{59})|1[ac-hj-np-z02-9]{8,87})|[mn2][a-km-zA-HJ-NP-Z1-9]{25,39})$"
     },
     "spam": false,
     "symbol": "TBTC",

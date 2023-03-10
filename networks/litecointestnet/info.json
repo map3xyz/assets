@@ -27,7 +27,7 @@
     "networkCode": "litecointestnet",
     "networkName": "Litecoin Testnet",
     "regex": {
-        "address": "^[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}$"
+        "address": "^[LM3Q2mn][a-km-zA-HJ-NP-Z1-9]{26,33}$"
     },
     "spam": false,
     "symbol": "TLTC",
