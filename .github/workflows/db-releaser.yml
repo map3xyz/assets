@@ -4,7 +4,7 @@ on:
     branches: [master]
   workflow_dispatch:
 jobs:
-  pull_request_ci:
+  release_db:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Node
