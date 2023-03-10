@@ -12,7 +12,7 @@
     },
     "links": {
       "explorer": "https://goerli.etherscan.io",
-      "website": "https://goerli.net/"
+      "website": "https://goerli.net"
     },
     "logo": {
       "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/ethereum/logo.png",
