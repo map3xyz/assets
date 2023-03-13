@@ -14,4 +14,4 @@ jobs:
       - name: Set up Assets CLI
         run: npm install -g @map3xyz/assets-cli
       - name: Release DB
-        run: GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} ALGOLIA_API_KEY=${{ secrets.ALGOLIA_API_KEY }} assets-cli release
+        run: GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }} ALGOLIA_API_KEY=${{ secrets.ALGOLIA_API_KEY }} assets-cli release -d .
