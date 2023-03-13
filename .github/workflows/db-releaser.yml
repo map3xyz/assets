@@ -11,6 +11,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+      - name: Check out code 
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
       - name: Set up Assets CLI
         run: npm install -g @map3xyz/assets-cli
       - name: Release DB
