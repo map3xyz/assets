@@ -1,37 +1,38 @@
 {
-    "active": true,
-    "color": "#EE8C28",
-    "decimals": 8,
-    "description": {
-        "en": "Bitcoin Cash is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC)."
-    },
-    "id": "3ca1e5b1-9580-4913-a4ac-4aa4c92ce1f4",
-    "identifiers": {
-        "bip44": 145,
-        "coinmarketcap": 1831
-    },
-    "links": {
-        "explorer": "https://blockchair.com/bitcoin-cash",
-        "github": "https://github.com/bitcoincashorg",
-        "reddit": "https://reddit.com/r/Bitcoincash",
-        "research": "https://research.binance.com/en/projects/bitcoin-cash",
-        "twitter": "https://twitter.com/BITCOlNCASH",
-        "website": "https://bitcoincash.org",
-        "whitepaper": "https://www.bitcoincash.org/bitcoin.pdf"
-    },
-    "logo": {
-        "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoincash/logo.png",
-        "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoincash/logo.svg"
-    },
-    "name": "Bitcoin Cash",
-    "networkCode": "bitcoincash",
-    "networkName": "Bitcoin Cash Network",
-    "regex": {
-        "address": "^([13][a-km-zA-HJ-NP-Z1-9]{25,34})|^((bitcoincash:)?(q|p)[a-z0-9]{41})|^((BITCOINCASH:)?(Q|P)[A-Z0-9]{41})$"
-    },
-    "spam": false,
-    "symbol": "BCH",
-    "tags": [],
-    "type": "network",
-    "verifications": []
+  "active": true,
+  "color": "#EE8C28",
+  "decimals": 8,
+  "description": {
+    "en": "Bitcoin Cash is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC)."
+  },
+  "id": "3ca1e5b1-9580-4913-a4ac-4aa4c92ce1f4",
+  "identifiers": {
+    "binance": "BCH",
+    "bip44": 145,
+    "coinmarketcap": 1831
+  },
+  "links": {
+    "explorer": "https://blockchair.com/bitcoin-cash",
+    "github": "https://github.com/bitcoincashorg",
+    "reddit": "https://reddit.com/r/Bitcoincash",
+    "research": "https://research.binance.com/en/projects/bitcoin-cash",
+    "twitter": "https://twitter.com/BITCOlNCASH",
+    "website": "https://bitcoincash.org",
+    "whitepaper": "https://www.bitcoincash.org/bitcoin.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoincash/logo.png",
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/bitcoincash/logo.svg"
+  },
+  "name": "Bitcoin Cash",
+  "networkCode": "bitcoincash",
+  "networkName": "Bitcoin Cash Network",
+  "regex": {
+    "address": "^([13][a-km-zA-HJ-NP-Z1-9]{25,34})|^((bitcoincash:)?(q|p)[a-z0-9]{41})|^((BITCOINCASH:)?(Q|P)[A-Z0-9]{41})$"
+  },
+  "spam": false,
+  "symbol": "BCH",
+  "tags": [],
+  "type": "network",
+  "verifications": []
 }

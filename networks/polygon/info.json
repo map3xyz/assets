@@ -1,38 +1,39 @@
 {
-    "active": true,
-    "color": "#8247e5",
-    "decimals": 18,
-    "description": {
-        "en": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem"
-    },
-    "identifiers": {
-      "bip44": 966,
-      "chainId": 137,
-      "coinmarketcap": 3890
-    },
-    "id": "d6bffe69-071d-4fa8-9038-d90fac19bf77",
-    "links": {
-      "explorer": "https://polygonscan.com",
-      "research": "https://docs.matic.network/",
-      "website": "https://polygon.technology/",
-      "github": "https://github.com/maticnetwork/",
-      "twitter": "https://twitter.com/0xPolygon",
-      "reddit": "https://reddit.com/r/maticnetwork/",
-      "whitepaper": "https://github.com/maticnetwork/whitepaper"
-    },
-    "logo": {
-      "png":"https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.png",
-      "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.svg"
-    },
-    "name": "Polygon",
-    "networkCode": "polygon",
-    "networkName": "Polygon Network",
-    "regex": {
-      "address": "^(0x)[0-9A-Fa-f]{40}$"
-    },
-    "spam": false,
-    "symbol": "MATIC",
-    "tags": [],
-    "type": "network",
-    "verifications": []
-  }
+  "active": true,
+  "color": "#8247e5",
+  "decimals": 18,
+  "description": {
+    "en": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem"
+  },
+  "identifiers": {
+    "binance": "MATIC",
+    "bip44": 966,
+    "chainId": 137,
+    "coinmarketcap": 3890
+  },
+  "id": "d6bffe69-071d-4fa8-9038-d90fac19bf77",
+  "links": {
+    "explorer": "https://polygonscan.com",
+    "research": "https://docs.matic.network/",
+    "website": "https://polygon.technology/",
+    "github": "https://github.com/maticnetwork/",
+    "twitter": "https://twitter.com/0xPolygon",
+    "reddit": "https://reddit.com/r/maticnetwork/",
+    "whitepaper": "https://github.com/maticnetwork/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.png",
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/polygon/logo.svg"
+  },
+  "name": "Polygon",
+  "networkCode": "polygon",
+  "networkName": "Polygon Network",
+  "regex": {
+    "address": "^(0x)[0-9A-Fa-f]{40}$"
+  },
+  "spam": false,
+  "symbol": "MATIC",
+  "tags": [],
+  "type": "network",
+  "verifications": []
+}

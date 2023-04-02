@@ -7,6 +7,7 @@
   },
   "id": "439fb9eb-1530-471a-8c3d-2f6294f50b1b",
   "identifiers": {
+    "binance": "WAN",
     "chainId": 888,
     "coinmarketcap": 2606
   },
