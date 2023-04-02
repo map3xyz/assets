@@ -7,6 +7,7 @@
   },
   "id": "fa1406bf-f67d-481c-bdca-19b641ba8c58",
   "identifiers": {
+    "binance": "ETH",
     "chainId": 1313161554,
     "coinmarketcap": 14803
   },

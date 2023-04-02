@@ -7,6 +7,7 @@
   },
   "id": "8b108f32-5617-4bd8-a530-3e56694bfb10",
   "identifiers": {
+    "binance": "CELO",
     "chainId": 42220,
     "coinmarketcap": 5567
   },

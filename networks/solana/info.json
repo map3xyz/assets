@@ -1,37 +1,38 @@
 {
-    "active": true,
-    "color": "#000000",
-    "decimals": 9,
-    "description": {
-        "en": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data."
-    },
-    "id": "410377a6-4168-49c2-8a80-536811395fb2",
-    "identifiers": {
-      "bip44": 501,
-      "coinmarketcap": 5426
-    },
-    "links": {
-      "explorer": "https://explorer.solana.com",
-      "research": "https://research.binance.com/en/projects/solana",
-      "website": "https://solana.com/",
-      "github": "https://github.com/solana-labs",
-      "twitter": "https://twitter.com/solana",
-      "reddit": "https://reddit.com/r/solana",
-      "whitepaper": "https://github.com/solana-labs/whitepaper"
-    },
-    "logo": {
-      "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png",
-      "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg"
-    },
-    "name": "Solana",
-    "networkCode": "solana",
-    "networkName": "Solana Network",
-    "regex": {
-      "address": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
-    },
-    "spam": false,
-    "symbol": "SOL",
-    "tags": [],
-    "type": "network",
-    "verifications": []
-  }
+  "active": true,
+  "color": "#000000",
+  "decimals": 9,
+  "description": {
+    "en": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data."
+  },
+  "id": "410377a6-4168-49c2-8a80-536811395fb2",
+  "identifiers": {
+    "binance": "SOL",
+    "bip44": 501,
+    "coinmarketcap": 5426
+  },
+  "links": {
+    "explorer": "https://explorer.solana.com",
+    "research": "https://research.binance.com/en/projects/solana",
+    "website": "https://solana.com/",
+    "github": "https://github.com/solana-labs",
+    "twitter": "https://twitter.com/solana",
+    "reddit": "https://reddit.com/r/solana",
+    "whitepaper": "https://github.com/solana-labs/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.png",
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/solana/logo.svg"
+  },
+  "name": "Solana",
+  "networkCode": "solana",
+  "networkName": "Solana Network",
+  "regex": {
+    "address": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
+  },
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [],
+  "type": "network",
+  "verifications": []
+}

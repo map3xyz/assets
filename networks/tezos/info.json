@@ -1,39 +1,40 @@
 {
-    "active": true,
-    "color": "#0F61FF",
-    "decimals": 6,
-    "description": {
-        "en":  "Tezos is a smart contract platform that uses blockchain voting to be self-governing by its token holders. Also, the platform aims to boost the security of smart contracts."
-    },
-    "id": "4978a57a-f918-4dc4-a5e0-c331b6733ac9",
-    "identifiers": {
-      "bip44": 1729,
-      "coinmarketcap": 2011
-    },
-    "links": {
-      "explorer": "https://tezos.id",
-      "research": "https://research.binance.com/en/projects/tezos",
-      "website": "https://tezos.com/",
-      "github": "https://gitlab.com/tezos/tezos",
-      "twitter": "https://twitter.com/tezos",
-      "reddit": "https://reddit.com/r/tezos",
-      "whitepaper": "https://www.tezos.com/static/papers/white_paper.pdf"
-    },
-    "logo": {
-      "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.png",
-      "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.svg"
-    },
-    "name": "Tezos",
-    "networkCode": "tezos",
-    "networkName": "Tezos Network",
-    "regex": {
-      "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$"
-    },
-    "spam": false,
-    "symbol": "XTZ",
-    "tags": [
-      "staking-native"
-    ],
-    "type": "network",
-    "verifications": []
-  }
+  "active": true,
+  "color": "#0F61FF",
+  "decimals": 6,
+  "description": {
+    "en": "Tezos is a smart contract platform that uses blockchain voting to be self-governing by its token holders. Also, the platform aims to boost the security of smart contracts."
+  },
+  "id": "4978a57a-f918-4dc4-a5e0-c331b6733ac9",
+  "identifiers": {
+    "binance": "XTZ",
+    "bip44": 1729,
+    "coinmarketcap": 2011
+  },
+  "links": {
+    "explorer": "https://tezos.id",
+    "research": "https://research.binance.com/en/projects/tezos",
+    "website": "https://tezos.com/",
+    "github": "https://gitlab.com/tezos/tezos",
+    "twitter": "https://twitter.com/tezos",
+    "reddit": "https://reddit.com/r/tezos",
+    "whitepaper": "https://www.tezos.com/static/papers/white_paper.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.png",
+    "svg": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/tezos/logo.svg"
+  },
+  "name": "Tezos",
+  "networkCode": "tezos",
+  "networkName": "Tezos Network",
+  "regex": {
+    "address": "^(tz[1,2,3])[a-zA-Z0-9]{33}$"
+  },
+  "spam": false,
+  "symbol": "XTZ",
+  "tags": [
+    "staking-native"
+  ],
+  "type": "network",
+  "verifications": []
+}
